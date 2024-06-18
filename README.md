@@ -1,2 +1,16 @@
 # dailyCodingSolution
-This repository is for the solution of my Daily Coding Question 
+This repository is for the solution of my Daily Coding Question
+
+
+# Array
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0073-set-matrix-zeroes) |
+# Hash Table
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0073-set-matrix-zeroes) |
+# Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0073-set-matrix-zeroes) |
