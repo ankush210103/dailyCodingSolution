@@ -14,6 +14,7 @@ This repository is for the solution of my Daily Coding Question
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ankush210103/dailyCodingSolution/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/ankush210103/dailyCodingSolution/tree/master/0169-majority-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankush210103/dailyCodingSolution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 # Hash Table
 |  |
@@ -22,6 +23,7 @@ This repository is for the solution of my Daily Coding Question
 | [0036-valid-sudoku](https://github.com/ankush210103/dailyCodingSolution/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/ankush210103/dailyCodingSolution/tree/master/0139-word-break) |
+| [0169-majority-element](https://github.com/ankush210103/dailyCodingSolution/tree/master/0169-majority-element) |
 # Matrix
 |  |
 | ------- |
@@ -38,6 +40,7 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0053-maximum-subarray](https://github.com/ankush210103/dailyCodingSolution/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/ankush210103/dailyCodingSolution/tree/master/0169-majority-element) |
 # Tree
 |  |
 | ------- |
@@ -73,3 +76,11 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0139-word-break](https://github.com/ankush210103/dailyCodingSolution/tree/master/0139-word-break) |
+# Sorting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ankush210103/dailyCodingSolution/tree/master/0169-majority-element) |
+# Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/ankush210103/dailyCodingSolution/tree/master/0169-majority-element) |
