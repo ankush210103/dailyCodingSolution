@@ -9,6 +9,7 @@ This repository is for the solution of my Daily Coding Question
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ankush210103/dailyCodingSolution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ankush210103/dailyCodingSolution/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/ankush210103/dailyCodingSolution/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0136-single-number) |
@@ -35,6 +36,7 @@ This repository is for the solution of my Daily Coding Question
 # Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ankush210103/dailyCodingSolution/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 # Tree
 |  |
@@ -61,6 +63,7 @@ This repository is for the solution of my Daily Coding Question
 # Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/ankush210103/dailyCodingSolution/tree/master/0053-maximum-subarray) |
 | [0139-word-break](https://github.com/ankush210103/dailyCodingSolution/tree/master/0139-word-break) |
 # Trie
 |  |
