@@ -16,6 +16,7 @@ This repository is for the solution of my Daily Coding Question
 | [0139-word-break](https://github.com/ankush210103/dailyCodingSolution/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ankush210103/dailyCodingSolution/tree/master/0169-majority-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankush210103/dailyCodingSolution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/ankush210103/dailyCodingSolution/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
 |  |
 | ------- |
@@ -51,6 +52,7 @@ This repository is for the solution of my Daily Coding Question
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankush210103/dailyCodingSolution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1675-magnetic-force-between-two-balls](https://github.com/ankush210103/dailyCodingSolution/tree/master/1675-magnetic-force-between-two-balls) |
 # Binary Tree
 |  |
 | ------- |
@@ -80,6 +82,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ankush210103/dailyCodingSolution/tree/master/0169-majority-element) |
+| [1675-magnetic-force-between-two-balls](https://github.com/ankush210103/dailyCodingSolution/tree/master/1675-magnetic-force-between-two-balls) |
 # Counting
 |  |
 | ------- |
