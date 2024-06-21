@@ -15,6 +15,7 @@ This repository is for the solution of my Daily Coding Question
 | [0136-single-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ankush210103/dailyCodingSolution/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ankush210103/dailyCodingSolution/tree/master/0169-majority-element) |
+| [1138-grumpy-bookstore-owner](https://github.com/ankush210103/dailyCodingSolution/tree/master/1138-grumpy-bookstore-owner) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankush210103/dailyCodingSolution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ankush210103/dailyCodingSolution/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
@@ -87,3 +88,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ankush210103/dailyCodingSolution/tree/master/0169-majority-element) |
+# Sliding Window
+|  |
+| ------- |
+| [1138-grumpy-bookstore-owner](https://github.com/ankush210103/dailyCodingSolution/tree/master/1138-grumpy-bookstore-owner) |
