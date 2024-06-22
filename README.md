@@ -16,6 +16,7 @@ This repository is for the solution of my Daily Coding Question
 | [0139-word-break](https://github.com/ankush210103/dailyCodingSolution/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ankush210103/dailyCodingSolution/tree/master/0169-majority-element) |
 | [1138-grumpy-bookstore-owner](https://github.com/ankush210103/dailyCodingSolution/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/1370-count-number-of-nice-subarrays) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankush210103/dailyCodingSolution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ankush210103/dailyCodingSolution/tree/master/1675-magnetic-force-between-two-balls) |
 # Hash Table
@@ -26,6 +27,7 @@ This repository is for the solution of my Daily Coding Question
 | [0073-set-matrix-zeroes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0073-set-matrix-zeroes) |
 | [0139-word-break](https://github.com/ankush210103/dailyCodingSolution/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ankush210103/dailyCodingSolution/tree/master/0169-majority-element) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/1370-count-number-of-nice-subarrays) |
 # Matrix
 |  |
 | ------- |
@@ -37,6 +39,7 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0007-reverse-integer](https://github.com/ankush210103/dailyCodingSolution/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ankush210103/dailyCodingSolution/tree/master/0048-rotate-image) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/1370-count-number-of-nice-subarrays) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -92,3 +95,4 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [1138-grumpy-bookstore-owner](https://github.com/ankush210103/dailyCodingSolution/tree/master/1138-grumpy-bookstore-owner) |
+| [1370-count-number-of-nice-subarrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/1370-count-number-of-nice-subarrays) |
