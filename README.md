@@ -52,17 +52,20 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankush210103/dailyCodingSolution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ankush210103/dailyCodingSolution/tree/master/1675-magnetic-force-between-two-balls) |
 # Binary Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -122,3 +125,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ankush210103/dailyCodingSolution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
+# Depth-First Search
+|  |
+| ------- |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
