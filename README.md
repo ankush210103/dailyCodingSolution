@@ -11,6 +11,7 @@ This repository is for the solution of my Daily Coding Question
 | [0048-rotate-image](https://github.com/ankush210103/dailyCodingSolution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ankush210103/dailyCodingSolution/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0073-set-matrix-zeroes) |
+| [0088-merge-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ankush210103/dailyCodingSolution/tree/master/0139-word-break) |
@@ -91,6 +92,7 @@ This repository is for the solution of my Daily Coding Question
 # Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ankush210103/dailyCodingSolution/tree/master/0169-majority-element) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ankush210103/dailyCodingSolution/tree/master/1675-magnetic-force-between-two-balls) |
 # Counting
@@ -129,3 +131,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+# Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0088-merge-sorted-array) |
