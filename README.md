@@ -11,6 +11,7 @@ This repository is for the solution of my Daily Coding Question
 | [0048-rotate-image](https://github.com/ankush210103/dailyCodingSolution/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/ankush210103/dailyCodingSolution/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0073-set-matrix-zeroes) |
 | [0088-merge-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -38,6 +39,7 @@ This repository is for the solution of my Daily Coding Question
 | [0036-valid-sudoku](https://github.com/ankush210103/dailyCodingSolution/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/ankush210103/dailyCodingSolution/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0073-set-matrix-zeroes) |
 # Math
 |  |
@@ -141,3 +143,4 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0059-spiral-matrix-ii) |
