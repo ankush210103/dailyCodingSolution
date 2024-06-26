@@ -13,6 +13,7 @@ This repository is for the solution of my Daily Coding Question
 | [0054-spiral-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0073-set-matrix-zeroes) |
+| [0075-sort-colors](https://github.com/ankush210103/dailyCodingSolution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0136-single-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0136-single-number) |
@@ -96,6 +97,7 @@ This repository is for the solution of my Daily Coding Question
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ankush210103/dailyCodingSolution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ankush210103/dailyCodingSolution/tree/master/0169-majority-element) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ankush210103/dailyCodingSolution/tree/master/1675-magnetic-force-between-two-balls) |
@@ -138,6 +140,7 @@ This repository is for the solution of my Daily Coding Question
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/ankush210103/dailyCodingSolution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0088-merge-sorted-array) |
 # Simulation
 |  |
