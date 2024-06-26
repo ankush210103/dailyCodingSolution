@@ -54,17 +54,20 @@ This repository is for the solution of my Daily Coding Question
 | [0053-maximum-subarray](https://github.com/ankush210103/dailyCodingSolution/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/ankush210103/dailyCodingSolution/tree/master/0169-majority-element) |
+| [1285-balance-a-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1285-balance-a-binary-search-tree) |
 # Tree
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1285-balance-a-binary-search-tree) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankush210103/dailyCodingSolution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/ankush210103/dailyCodingSolution/tree/master/1675-magnetic-force-between-two-balls) |
 # Binary Tree
@@ -72,6 +75,7 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1285-balance-a-binary-search-tree) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -137,6 +141,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1285-balance-a-binary-search-tree) |
 # Two Pointers
 |  |
 | ------- |
@@ -147,3 +152,7 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0054-spiral-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0059-spiral-matrix-ii) |
+# Greedy
+|  |
+| ------- |
+| [1285-balance-a-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1285-balance-a-binary-search-tree) |
