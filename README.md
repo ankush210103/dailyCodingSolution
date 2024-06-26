@@ -147,6 +147,7 @@ This repository is for the solution of my Daily Coding Question
 # Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0075-sort-colors](https://github.com/ankush210103/dailyCodingSolution/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0088-merge-sorted-array) |
 # Simulation
@@ -159,3 +160,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [1285-balance-a-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1285-balance-a-binary-search-tree) |
+# Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/0019-remove-nth-node-from-end-of-list) |
