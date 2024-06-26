@@ -19,6 +19,7 @@ This repository is for the solution of my Daily Coding Question
 | [0136-single-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0136-single-number) |
 | [0139-word-break](https://github.com/ankush210103/dailyCodingSolution/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/ankush210103/dailyCodingSolution/tree/master/0169-majority-element) |
+| [0898-transpose-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/0898-transpose-matrix) |
 | [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/ankush210103/dailyCodingSolution/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/ankush210103/dailyCodingSolution/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/1370-count-number-of-nice-subarrays) |
@@ -42,6 +43,7 @@ This repository is for the solution of my Daily Coding Question
 | [0054-spiral-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0073-set-matrix-zeroes) |
+| [0898-transpose-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/0898-transpose-matrix) |
 # Math
 |  |
 | ------- |
@@ -152,6 +154,7 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0054-spiral-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0059-spiral-matrix-ii) |
+| [0898-transpose-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/0898-transpose-matrix) |
 # Greedy
 |  |
 | ------- |
