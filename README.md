@@ -164,3 +164,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/0019-remove-nth-node-from-end-of-list) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/ankush210103/dailyCodingSolution/tree/master/1916-find-center-of-star-graph) |
