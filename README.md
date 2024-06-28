@@ -168,3 +168,22 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/ankush210103/dailyCodingSolution/tree/master/1916-find-center-of-star-graph) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Greedy
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/ankush210103/dailyCodingSolution/tree/master/2379-maximum-total-importance-of-roads) |
+## Graph
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/ankush210103/dailyCodingSolution/tree/master/2379-maximum-total-importance-of-roads) |
+## Sorting
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/ankush210103/dailyCodingSolution/tree/master/2379-maximum-total-importance-of-roads) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/ankush210103/dailyCodingSolution/tree/master/2379-maximum-total-importance-of-roads) |
+<!---LeetCode Topics End-->
