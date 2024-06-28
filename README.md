@@ -192,6 +192,7 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ankush210103/dailyCodingSolution/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/ankush210103/dailyCodingSolution/tree/master/0023-merge-k-sorted-lists) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0206-reverse-linked-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
