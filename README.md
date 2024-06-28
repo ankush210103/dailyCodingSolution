@@ -186,4 +186,12 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankush210103/dailyCodingSolution/tree/master/2379-maximum-total-importance-of-roads) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ankush210103/dailyCodingSolution/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/ankush210103/dailyCodingSolution/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
