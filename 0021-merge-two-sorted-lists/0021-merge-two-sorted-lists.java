@@ -21,12 +21,16 @@ class Solution {
             list = list.next;
         }
 
-        if(temp1!= null){
+        while(temp1!= null){
             list.next = temp1;
+            temp1 = temp1.next;
+            list = list.next;
            
         }
-        if(temp2!= null){
+        while(temp2!= null){
             list.next = temp2;
+            temp2 = temp2.next;
+            list = list.next;
             
         }
 
