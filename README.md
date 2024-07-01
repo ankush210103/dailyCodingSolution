@@ -239,4 +239,8 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ankush210103/dailyCodingSolution/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/ankush210103/dailyCodingSolution/tree/master/1293-three-consecutive-odds) |
 <!---LeetCode Topics End-->
