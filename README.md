@@ -208,6 +208,7 @@ This repository is for the solution of my Daily Coding Question
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ankush210103/dailyCodingSolution/tree/master/0023-merge-k-sorted-lists) |
 ## Merge Sort
 |  |
@@ -242,5 +243,10 @@ This repository is for the solution of my Daily Coding Question
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [1293-three-consecutive-odds](https://github.com/ankush210103/dailyCodingSolution/tree/master/1293-three-consecutive-odds) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
