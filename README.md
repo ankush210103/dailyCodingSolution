@@ -183,6 +183,7 @@ This repository is for the solution of my Daily Coding Question
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankush210103/dailyCodingSolution/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -219,11 +220,13 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ankush210103/dailyCodingSolution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0142-linked-list-cycle-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ankush210103/dailyCodingSolution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0142-linked-list-cycle-ii) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -244,9 +247,11 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/ankush210103/dailyCodingSolution/tree/master/1293-three-consecutive-odds) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
