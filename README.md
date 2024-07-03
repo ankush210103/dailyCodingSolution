@@ -173,6 +173,7 @@ This repository is for the solution of my Daily Coding Question
 ## Greedy
 |  |
 | ------- |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankush210103/dailyCodingSolution/tree/master/2379-maximum-total-importance-of-roads) |
 ## Graph
 |  |
@@ -185,6 +186,7 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankush210103/dailyCodingSolution/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -254,6 +256,7 @@ This repository is for the solution of my Daily Coding Question
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/ankush210103/dailyCodingSolution/tree/master/1293-three-consecutive-odds) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 ## Binary Search
 |  |
 | ------- |
