@@ -232,6 +232,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankush210103/dailyCodingSolution/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/ankush210103/dailyCodingSolution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ankush210103/dailyCodingSolution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0142-linked-list-cycle-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -299,4 +300,8 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankush210103/dailyCodingSolution/tree/master/0042-trapping-rain-water) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/ankush210103/dailyCodingSolution/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
