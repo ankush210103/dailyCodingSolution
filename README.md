@@ -205,6 +205,7 @@ This repository is for the solution of my Daily Coding Question
 | [0142-linked-list-cycle-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0142-linked-list-cycle-ii) |
 | [0203-remove-linked-list-elements](https://github.com/ankush210103/dailyCodingSolution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/0206-reverse-linked-list) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ankush210103/dailyCodingSolution/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ankush210103/dailyCodingSolution/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
