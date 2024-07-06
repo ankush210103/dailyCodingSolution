@@ -288,6 +288,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ankush210103/dailyCodingSolution/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/ankush210103/dailyCodingSolution/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -304,4 +305,8 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/ankush210103/dailyCodingSolution/tree/master/0125-valid-palindrome) |
+## Math
+|  |
+| ------- |
+| [2645-pass-the-pillow](https://github.com/ankush210103/dailyCodingSolution/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
