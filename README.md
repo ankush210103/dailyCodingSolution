@@ -287,6 +287,7 @@ This repository is for the solution of my Daily Coding Question
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/ankush210103/dailyCodingSolution/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ankush210103/dailyCodingSolution/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/ankush210103/dailyCodingSolution/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
@@ -308,5 +309,6 @@ This repository is for the solution of my Daily Coding Question
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/ankush210103/dailyCodingSolution/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/ankush210103/dailyCodingSolution/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
