@@ -265,6 +265,7 @@ This repository is for the solution of my Daily Coding Question
 | [1293-three-consecutive-odds](https://github.com/ankush210103/dailyCodingSolution/tree/master/1293-three-consecutive-odds) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1803-average-waiting-time](https://github.com/ankush210103/dailyCodingSolution/tree/master/1803-average-waiting-time) |
 ## Binary Search
 |  |
 | ------- |
@@ -292,6 +293,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/ankush210103/dailyCodingSolution/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/ankush210103/dailyCodingSolution/tree/master/1803-average-waiting-time) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ankush210103/dailyCodingSolution/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/ankush210103/dailyCodingSolution/tree/master/2645-pass-the-pillow) |
 ## Dynamic Programming
