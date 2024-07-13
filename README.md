@@ -209,6 +209,7 @@ This repository is for the solution of my Daily Coding Question
 | [0203-remove-linked-list-elements](https://github.com/ankush210103/dailyCodingSolution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/0234-palindrome-linked-list) |
+| [0328-odd-even-linked-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/0328-odd-even-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ankush210103/dailyCodingSolution/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ankush210103/dailyCodingSolution/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
