@@ -314,6 +314,7 @@ This repository is for the solution of my Daily Coding Question
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ankush210103/dailyCodingSolution/tree/master/0042-trapping-rain-water) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ankush210103/dailyCodingSolution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/ankush210103/dailyCodingSolution/tree/master/2846-robot-collisions) |
@@ -324,6 +325,7 @@ This repository is for the solution of my Daily Coding Question
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0020-valid-parentheses) |
 | [0125-valid-palindrome](https://github.com/ankush210103/dailyCodingSolution/tree/master/0125-valid-palindrome) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ankush210103/dailyCodingSolution/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Math
