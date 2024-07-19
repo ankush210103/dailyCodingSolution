@@ -287,6 +287,7 @@ This repository is for the solution of my Daily Coding Question
 | [1207-delete-nodes-and-return-forest](https://github.com/ankush210103/dailyCodingSolution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1293-three-consecutive-odds](https://github.com/ankush210103/dailyCodingSolution/tree/master/1293-three-consecutive-odds) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1803-average-waiting-time](https://github.com/ankush210103/dailyCodingSolution/tree/master/1803-average-waiting-time) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ankush210103/dailyCodingSolution/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -305,6 +306,7 @@ This repository is for the solution of my Daily Coding Question
 | [0037-sudoku-solver](https://github.com/ankush210103/dailyCodingSolution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ankush210103/dailyCodingSolution/tree/master/0048-rotate-image) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1496-lucky-numbers-in-a-matrix) |
 ## Queue
 |  |
 | ------- |
