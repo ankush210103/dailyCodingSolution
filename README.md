@@ -253,6 +253,7 @@ This repository is for the solution of my Daily Coding Question
 | [0125-valid-palindrome](https://github.com/ankush210103/dailyCodingSolution/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ankush210103/dailyCodingSolution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0142-linked-list-cycle-ii) |
+| [0189-rotate-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/0234-palindrome-linked-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Depth-First Search
@@ -286,6 +287,7 @@ This repository is for the solution of my Daily Coding Question
 | [0048-rotate-image](https://github.com/ankush210103/dailyCodingSolution/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/ankush210103/dailyCodingSolution/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/ankush210103/dailyCodingSolution/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -365,6 +367,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ankush210103/dailyCodingSolution/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0268-missing-number) |
 | [1642-water-bottles](https://github.com/ankush210103/dailyCodingSolution/tree/master/1642-water-bottles) |
 | [2645-pass-the-pillow](https://github.com/ankush210103/dailyCodingSolution/tree/master/2645-pass-the-pillow) |
