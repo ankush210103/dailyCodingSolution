@@ -310,6 +310,7 @@ This repository is for the solution of my Daily Coding Question
 | [1333-sort-the-jumbled-numbers](https://github.com/ankush210103/dailyCodingSolution/tree/master/1333-sort-the-jumbled-numbers) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1511-count-number-of-teams](https://github.com/ankush210103/dailyCodingSolution/tree/master/1511-count-number-of-teams) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ankush210103/dailyCodingSolution/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankush210103/dailyCodingSolution/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -361,6 +362,7 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankush210103/dailyCodingSolution/tree/master/0042-trapping-rain-water) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ankush210103/dailyCodingSolution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1511-count-number-of-teams](https://github.com/ankush210103/dailyCodingSolution/tree/master/1511-count-number-of-teams) |
 ## Stack
 |  |
 | ------- |
@@ -433,4 +435,8 @@ This repository is for the solution of my Daily Coding Question
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ankush210103/dailyCodingSolution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ankush210103/dailyCodingSolution/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3235-minimum-cost-to-convert-string-i) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1511-count-number-of-teams](https://github.com/ankush210103/dailyCodingSolution/tree/master/1511-count-number-of-teams) |
 <!---LeetCode Topics End-->
