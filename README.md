@@ -308,6 +308,7 @@ This repository is for the solution of my Daily Coding Question
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ankush210103/dailyCodingSolution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankush210103/dailyCodingSolution/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ankush210103/dailyCodingSolution/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/ankush210103/dailyCodingSolution/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/ankush210103/dailyCodingSolution/tree/master/0051-n-queens) |
@@ -436,6 +437,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/ankush210103/dailyCodingSolution/tree/master/0037-sudoku-solver) |
+| [0040-combination-sum-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/ankush210103/dailyCodingSolution/tree/master/0051-n-queens) |
 ## Tree
 |  |
