@@ -357,6 +357,7 @@ This repository is for the solution of my Daily Coding Question
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ankush210103/dailyCodingSolution/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankush210103/dailyCodingSolution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/ankush210103/dailyCodingSolution/tree/master/1803-average-waiting-time) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankush210103/dailyCodingSolution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/ankush210103/dailyCodingSolution/tree/master/2035-count-sub-islands) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ankush210103/dailyCodingSolution/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -377,6 +378,7 @@ This repository is for the solution of my Daily Coding Question
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ankush210103/dailyCodingSolution/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankush210103/dailyCodingSolution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankush210103/dailyCodingSolution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Matrix
 |  |
 | ------- |
@@ -411,6 +413,7 @@ This repository is for the solution of my Daily Coding Question
 | [0921-spiral-matrix-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0921-spiral-matrix-iii) |
 | [1642-water-bottles](https://github.com/ankush210103/dailyCodingSolution/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/ankush210103/dailyCodingSolution/tree/master/1803-average-waiting-time) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankush210103/dailyCodingSolution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/ankush210103/dailyCodingSolution/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/ankush210103/dailyCodingSolution/tree/master/2645-pass-the-pillow) |
@@ -550,6 +553,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [1240-stone-game-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1240-stone-game-ii) |
+| [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankush210103/dailyCodingSolution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 ## Game Theory
 |  |
 | ------- |
