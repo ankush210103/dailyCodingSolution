@@ -8,22 +8,38 @@
  *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
+/**
+ * Definition for singly-linked list.
+ * public class ListNode {
+ *     int val;
+ *     ListNode next;
+ *     ListNode() {}
+ *     ListNode(int val) { this.val = val; }
+ *     ListNode(int val, ListNode next) { this.val = val; this.next = next; }
+ * }
+ */
 class Solution {
     public ListNode modifiedList(int[] nums, ListNode head) {
-        HashSet<Integer> valueSet = new HashSet<>();
-        for(int num : nums){
-            valueSet.add(num);
+        int max = -1;
+        for(int num : nums ){
+            max = num > max ? num : max;
         }
-    ListNode dummy = new ListNode(0);
-    dummy.next = head;
-    ListNode current = dummy;
-    while(current.next!= null){
-        if(valueSet.contains(current.next.val)){
-            current.next = current.next.next;
-        }else{
-            current = current.next;
+        boolean[] freq = new boolean[max+1];
+
+        for(int num : nums) freq[num] = true;
+
+        ListNode temp = new ListNode();
+        ListNode current = temp;
+
+        while(head != null){
+            if( head.val >= freq.length || freq[head.val] == false){
+                current.next = head;
+                current = current.next;
+            }
+            head = head.next;
         }
-    }
-    return dummy.next;
+
+        current.next = null;
+        return temp.next;
     }
 }
