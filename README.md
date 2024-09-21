@@ -308,6 +308,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0386-lexicographical-numbers](https://github.com/ankush210103/dailyCodingSolution/tree/master/0386-lexicographical-numbers) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankush210103/dailyCodingSolution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankush210103/dailyCodingSolution/tree/master/1207-delete-nodes-and-return-forest) |
@@ -636,4 +637,8 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ankush210103/dailyCodingSolution/tree/master/0214-shortest-palindrome) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/ankush210103/dailyCodingSolution/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
