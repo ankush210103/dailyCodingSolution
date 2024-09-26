@@ -357,6 +357,7 @@ This repository is for the solution of my Daily Coding Question
 | [0539-minimum-time-difference](https://github.com/ankush210103/dailyCodingSolution/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0624-maximum-distance-in-arrays) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ankush210103/dailyCodingSolution/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/0729-my-calendar-i) |
 | [0890-lemonade-change](https://github.com/ankush210103/dailyCodingSolution/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/ankush210103/dailyCodingSolution/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0921-spiral-matrix-iii) |
@@ -403,6 +404,7 @@ This repository is for the solution of my Daily Coding Question
 | [0268-missing-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ankush210103/dailyCodingSolution/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0729-my-calendar-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/0729-my-calendar-i) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankush210103/dailyCodingSolution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankush210103/dailyCodingSolution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -596,6 +598,7 @@ This repository is for the solution of my Daily Coding Question
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/0729-my-calendar-i) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankush210103/dailyCodingSolution/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -646,4 +649,12 @@ This repository is for the solution of my Daily Coding Question
 | [0386-lexicographical-numbers](https://github.com/ankush210103/dailyCodingSolution/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/ankush210103/dailyCodingSolution/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ankush210103/dailyCodingSolution/tree/master/2494-sum-of-prefix-scores-of-strings) |
+## Segment Tree
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/0729-my-calendar-i) |
+## Ordered Set
+|  |
+| ------- |
+| [0729-my-calendar-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/0729-my-calendar-i) |
 <!---LeetCode Topics End-->
