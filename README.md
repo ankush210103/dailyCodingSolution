@@ -372,6 +372,7 @@ This repository is for the solution of my Daily Coding Question
 | [1435-xor-queries-of-a-subarray](https://github.com/ankush210103/dailyCodingSolution/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ankush210103/dailyCodingSolution/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/ankush210103/dailyCodingSolution/tree/master/1511-count-number-of-teams) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankush210103/dailyCodingSolution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
@@ -477,6 +478,7 @@ This repository is for the solution of my Daily Coding Question
 | [0234-palindrome-linked-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/0234-palindrome-linked-list) |
 | [0726-number-of-atoms](https://github.com/ankush210103/dailyCodingSolution/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ankush210103/dailyCodingSolution/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ankush210103/dailyCodingSolution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ankush210103/dailyCodingSolution/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/ankush210103/dailyCodingSolution/tree/master/2846-robot-collisions) |
@@ -603,6 +605,7 @@ This repository is for the solution of my Daily Coding Question
 | [0729-my-calendar-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0731-my-calendar-ii) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankush210103/dailyCodingSolution/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/ankush210103/dailyCodingSolution/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search Tree
 |  |
 | ------- |
