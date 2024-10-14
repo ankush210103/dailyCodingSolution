@@ -184,6 +184,7 @@ This repository is for the solution of my Daily Coding Question
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankush210103/dailyCodingSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankush210103/dailyCodingSolution/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankush210103/dailyCodingSolution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/ankush210103/dailyCodingSolution/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 ## Graph
 |  |
@@ -237,6 +238,7 @@ This repository is for the solution of my Daily Coding Question
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ankush210103/dailyCodingSolution/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankush210103/dailyCodingSolution/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankush210103/dailyCodingSolution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/ankush210103/dailyCodingSolution/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2803-modify-graph-edge-weights](https://github.com/ankush210103/dailyCodingSolution/tree/master/2803-modify-graph-edge-weights) |
 ## Linked List
 |  |
@@ -431,6 +433,7 @@ This repository is for the solution of my Daily Coding Question
 | [2502-sort-the-people](https://github.com/ankush210103/dailyCodingSolution/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankush210103/dailyCodingSolution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankush210103/dailyCodingSolution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2616-maximal-score-after-applying-k-operations](https://github.com/ankush210103/dailyCodingSolution/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2727-number-of-senior-citizens](https://github.com/ankush210103/dailyCodingSolution/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/ankush210103/dailyCodingSolution/tree/master/2846-robot-collisions) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3235-minimum-cost-to-convert-string-i) |
