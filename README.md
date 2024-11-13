@@ -403,6 +403,7 @@ This repository is for the solution of my Daily Coding Question
 | [0239-sliding-window-maximum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0503-next-greater-element-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/ankush210103/dailyCodingSolution/tree/master/0539-minimum-time-difference) |
 | [0624-maximum-distance-in-arrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankush210103/dailyCodingSolution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -549,6 +550,7 @@ This repository is for the solution of my Daily Coding Question
 | [0042-trapping-rain-water](https://github.com/ankush210103/dailyCodingSolution/tree/master/0042-trapping-rain-water) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/0234-palindrome-linked-list) |
+| [0503-next-greater-element-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0503-next-greater-element-ii) |
 | [0726-number-of-atoms](https://github.com/ankush210103/dailyCodingSolution/tree/master/0726-number-of-atoms) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankush210103/dailyCodingSolution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -563,6 +565,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankush210103/dailyCodingSolution/tree/master/0042-trapping-rain-water) |
+| [0503-next-greater-element-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0503-next-greater-element-ii) |
 | [1002-maximum-width-ramp](https://github.com/ankush210103/dailyCodingSolution/tree/master/1002-maximum-width-ramp) |
 ## String
 |  |
