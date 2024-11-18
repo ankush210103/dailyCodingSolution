@@ -4,41 +4,34 @@ class Solution {
      */
     public int[] resultsArray(int[] nums, int k) {
         // Skip if k is 1
-        if (k == 1) {
-            return nums;
+        if(k==1){
+            return nums.clone();
         }
-        
         int n = nums.length;
-        List<Integer> resultList = new ArrayList<>();
-        int left = 0;
-        int right = 1;
-        
-        while (right < n) {
-            // Check if current sequence is not consecutive
-            boolean isNotConsecutive = nums[right] - nums[right-1] != 1;
-            
-            if (isNotConsecutive) {
-                // Mark invalid sequences
-                while (left < right && left + k - 1 < n) {
-                    resultList.add(-1);
-                    left++;
-                }
-                left = right;
+        List<Integer> result = new ArrayList<>();
+        Deque<Integer> window = new ArrayDeque<>();
+
+
+        for(int i=0;i<n;i++){
+            while(!window.isEmpty() && i- window.peekFirst() >= k){
+                window.pollFirst();
             }
-            // Found valid k-length sequence
-            else if (right - left == k - 1) {
-                resultList.add(nums[right]);
-                left++;
+
+            if(window.isEmpty() || nums[i] - nums[i-1] ==1){
+                window.offerLast(i);
+            }else{
+                window.clear();
+                window.offerLast(i);
             }
-            
-            right++;
+
+            // add result when the window size is k
+            if(i>=k-1){
+                result.add(window.size() == k ? nums[i]  : -1);
+            }
         }
-        
-        // Convert ArrayList to int array
-        int[] result = new int[resultList.size()];
-        for (int i = 0; i < resultList.size(); i++) {
-            result[i] = resultList.get(i);
-        }
-        return result;
+
+        return result.stream().mapToInt(Integer::intValue).toArray();
+
+
     }
 }
