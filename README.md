@@ -442,6 +442,7 @@ This repository is for the solution of my Daily Coding Question
 | [1694-make-sum-divisible-by-p](https://github.com/ankush210103/dailyCodingSolution/tree/master/1694-make-sum-divisible-by-p) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ankush210103/dailyCodingSolution/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankush210103/dailyCodingSolution/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1755-defuse-the-bomb](https://github.com/ankush210103/dailyCodingSolution/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankush210103/dailyCodingSolution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/ankush210103/dailyCodingSolution/tree/master/1803-average-waiting-time) |
 | [1923-sentence-similarity-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1923-sentence-similarity-iii) |
@@ -518,6 +519,7 @@ This repository is for the solution of my Daily Coding Question
 | [0567-permutation-in-string](https://github.com/ankush210103/dailyCodingSolution/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankush210103/dailyCodingSolution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ankush210103/dailyCodingSolution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1755-defuse-the-bomb](https://github.com/ankush210103/dailyCodingSolution/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
