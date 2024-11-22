@@ -310,6 +310,7 @@ This repository is for the solution of my Daily Coding Question
 | [0906-walking-robot-simulation](https://github.com/ankush210103/dailyCodingSolution/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ankush210103/dailyCodingSolution/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankush210103/dailyCodingSolution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ankush210103/dailyCodingSolution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankush210103/dailyCodingSolution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1256-rank-transform-of-an-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/1256-rank-transform-of-an-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ankush210103/dailyCodingSolution/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -424,6 +425,7 @@ This repository is for the solution of my Daily Coding Question
 | [0921-spiral-matrix-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0921-spiral-matrix-iii) |
 | [0948-sort-an-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0948-sort-an-array) |
 | [1002-maximum-width-ramp](https://github.com/ankush210103/dailyCodingSolution/tree/master/1002-maximum-width-ramp) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ankush210103/dailyCodingSolution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankush210103/dailyCodingSolution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1240-stone-game-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1240-stone-game-ii) |
@@ -501,6 +503,7 @@ This repository is for the solution of my Daily Coding Question
 | [0037-sudoku-solver](https://github.com/ankush210103/dailyCodingSolution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ankush210103/dailyCodingSolution/tree/master/0048-rotate-image) |
 | [0921-spiral-matrix-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0921-spiral-matrix-iii) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ankush210103/dailyCodingSolution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ankush210103/dailyCodingSolution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
