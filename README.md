@@ -375,6 +375,7 @@ This repository is for the solution of my Daily Coding Question
 ## Breadth-First Search
 |  |
 | ------- |
+| [0787-sliding-puzzle](https://github.com/ankush210103/dailyCodingSolution/tree/master/0787-sliding-puzzle) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ankush210103/dailyCodingSolution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1484-linked-list-in-binary-tree) |
 | [1691-minimum-number-of-days-to-disconnect-island](https://github.com/ankush210103/dailyCodingSolution/tree/master/1691-minimum-number-of-days-to-disconnect-island) |
@@ -419,6 +420,7 @@ This repository is for the solution of my Daily Coding Question
 | [0729-my-calendar-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0731-my-calendar-ii) |
 | [0735-asteroid-collision](https://github.com/ankush210103/dailyCodingSolution/tree/master/0735-asteroid-collision) |
+| [0787-sliding-puzzle](https://github.com/ankush210103/dailyCodingSolution/tree/master/0787-sliding-puzzle) |
 | [0859-design-circular-deque](https://github.com/ankush210103/dailyCodingSolution/tree/master/0859-design-circular-deque) |
 | [0890-lemonade-change](https://github.com/ankush210103/dailyCodingSolution/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ankush210103/dailyCodingSolution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -504,6 +506,7 @@ This repository is for the solution of my Daily Coding Question
 | [0036-valid-sudoku](https://github.com/ankush210103/dailyCodingSolution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankush210103/dailyCodingSolution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ankush210103/dailyCodingSolution/tree/master/0048-rotate-image) |
+| [0787-sliding-puzzle](https://github.com/ankush210103/dailyCodingSolution/tree/master/0787-sliding-puzzle) |
 | [0921-spiral-matrix-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0921-spiral-matrix-iii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ankush210103/dailyCodingSolution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
