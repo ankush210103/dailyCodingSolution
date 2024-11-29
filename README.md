@@ -658,6 +658,7 @@ This repository is for the solution of my Daily Coding Question
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/ankush210103/dailyCodingSolution/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ankush210103/dailyCodingSolution/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0241-different-ways-to-add-parentheses) |
