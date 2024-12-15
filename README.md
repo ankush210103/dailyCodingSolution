@@ -183,6 +183,7 @@ This repository is for the solution of my Daily Coding Question
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ankush210103/dailyCodingSolution/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/ankush210103/dailyCodingSolution/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1917-maximum-average-pass-ratio](https://github.com/ankush210103/dailyCodingSolution/tree/master/1917-maximum-average-pass-ratio) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankush210103/dailyCodingSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2379-maximum-total-importance-of-roads](https://github.com/ankush210103/dailyCodingSolution/tree/master/2379-maximum-total-importance-of-roads) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankush210103/dailyCodingSolution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
@@ -253,6 +254,7 @@ This repository is for the solution of my Daily Coding Question
 | [1304-longest-happy-string](https://github.com/ankush210103/dailyCodingSolution/tree/master/1304-longest-happy-string) |
 | [1325-path-with-maximum-probability](https://github.com/ankush210103/dailyCodingSolution/tree/master/1325-path-with-maximum-probability) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1917-maximum-average-pass-ratio](https://github.com/ankush210103/dailyCodingSolution/tree/master/1917-maximum-average-pass-ratio) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ankush210103/dailyCodingSolution/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2164-two-best-non-overlapping-events](https://github.com/ankush210103/dailyCodingSolution/tree/master/2164-two-best-non-overlapping-events) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ankush210103/dailyCodingSolution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -475,6 +477,7 @@ This repository is for the solution of my Daily Coding Question
 | [1755-defuse-the-bomb](https://github.com/ankush210103/dailyCodingSolution/tree/master/1755-defuse-the-bomb) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankush210103/dailyCodingSolution/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/ankush210103/dailyCodingSolution/tree/master/1803-average-waiting-time) |
+| [1917-maximum-average-pass-ratio](https://github.com/ankush210103/dailyCodingSolution/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1923-sentence-similarity-iii) |
 | [1972-rotating-the-box](https://github.com/ankush210103/dailyCodingSolution/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankush210103/dailyCodingSolution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
