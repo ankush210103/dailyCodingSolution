@@ -264,6 +264,7 @@ This repository is for the solution of my Daily Coding Question
 | [2692-take-gifts-from-the-richest-pile](https://github.com/ankush210103/dailyCodingSolution/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/ankush210103/dailyCodingSolution/tree/master/2803-modify-graph-edge-weights) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankush210103/dailyCodingSolution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Linked List
 |  |
@@ -515,6 +516,7 @@ This repository is for the solution of my Daily Coding Question
 | [2727-number-of-senior-citizens](https://github.com/ankush210103/dailyCodingSolution/tree/master/2727-number-of-senior-citizens) |
 | [2846-robot-collisions](https://github.com/ankush210103/dailyCodingSolution/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ankush210103/dailyCodingSolution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankush210103/dailyCodingSolution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ankush210103/dailyCodingSolution/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -542,6 +544,7 @@ This repository is for the solution of my Daily Coding Question
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/ankush210103/dailyCodingSolution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ankush210103/dailyCodingSolution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankush210103/dailyCodingSolution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Matrix
 |  |
 | ------- |
@@ -647,6 +650,7 @@ This repository is for the solution of my Daily Coding Question
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/ankush210103/dailyCodingSolution/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ankush210103/dailyCodingSolution/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/ankush210103/dailyCodingSolution/tree/master/2846-robot-collisions) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankush210103/dailyCodingSolution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -655,6 +659,7 @@ This repository is for the solution of my Daily Coding Question
 | [0503-next-greater-element-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/ankush210103/dailyCodingSolution/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/ankush210103/dailyCodingSolution/tree/master/1002-maximum-width-ramp) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankush210103/dailyCodingSolution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## String
 |  |
 | ------- |
@@ -798,6 +803,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/ankush210103/dailyCodingSolution/tree/master/1511-count-number-of-teams) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankush210103/dailyCodingSolution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Strongly Connected Component
 |  |
 | ------- |
@@ -870,6 +876,7 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0729-my-calendar-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0731-my-calendar-ii) |
+| [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankush210103/dailyCodingSolution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 ## Ordered Set
 |  |
 | ------- |
