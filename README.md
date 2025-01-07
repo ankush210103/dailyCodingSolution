@@ -478,6 +478,7 @@ This repository is for the solution of my Daily Coding Question
 | [1496-lucky-numbers-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ankush210103/dailyCodingSolution/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/ankush210103/dailyCodingSolution/tree/master/1511-count-number-of-teams) |
+| [1524-string-matching-in-an-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankush210103/dailyCodingSolution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -694,6 +695,7 @@ This repository is for the solution of my Daily Coding Question
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankush210103/dailyCodingSolution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/ankush210103/dailyCodingSolution/tree/master/1304-longest-happy-string) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ankush210103/dailyCodingSolution/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1524-string-matching-in-an-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ankush210103/dailyCodingSolution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankush210103/dailyCodingSolution/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ankush210103/dailyCodingSolution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -887,6 +889,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/ankush210103/dailyCodingSolution/tree/master/0214-shortest-palindrome) |
+| [1524-string-matching-in-an-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/ankush210103/dailyCodingSolution/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 ## Hash Function
 |  |
