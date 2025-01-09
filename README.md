@@ -439,6 +439,7 @@ This repository is for the solution of my Daily Coding Question
 | [0048-rotate-image](https://github.com/ankush210103/dailyCodingSolution/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/ankush210103/dailyCodingSolution/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/ankush210103/dailyCodingSolution/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0078-subsets) |
 | [0179-largest-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0239-sliding-window-maximum) |
@@ -747,6 +748,7 @@ This repository is for the solution of my Daily Coding Question
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/ankush210103/dailyCodingSolution/tree/master/0476-number-complement) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ankush210103/dailyCodingSolution/tree/master/1435-xor-queries-of-a-subarray) |
@@ -764,6 +766,7 @@ This repository is for the solution of my Daily Coding Question
 | [0037-sudoku-solver](https://github.com/ankush210103/dailyCodingSolution/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/ankush210103/dailyCodingSolution/tree/master/0051-n-queens) |
+| [0078-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0078-subsets) |
 | [0494-target-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0494-target-sum) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ankush210103/dailyCodingSolution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Tree
