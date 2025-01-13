@@ -353,6 +353,7 @@ This repository is for the solution of my Daily Coding Question
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/2677-cousins-in-binary-tree-ii) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/ankush210103/dailyCodingSolution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -729,6 +730,7 @@ This repository is for the solution of my Daily Coding Question
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/ankush210103/dailyCodingSolution/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
 |  |
 | ------- |
@@ -825,6 +827,7 @@ This repository is for the solution of my Daily Coding Question
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ankush210103/dailyCodingSolution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ankush210103/dailyCodingSolution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/ankush210103/dailyCodingSolution/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Shortest Path
 |  |
 | ------- |
