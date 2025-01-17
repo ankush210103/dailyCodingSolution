@@ -534,6 +534,7 @@ This repository is for the solution of my Daily Coding Question
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2727-number-of-senior-citizens](https://github.com/ankush210103/dailyCodingSolution/tree/master/2727-number-of-senior-citizens) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/ankush210103/dailyCodingSolution/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/ankush210103/dailyCodingSolution/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ankush210103/dailyCodingSolution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankush210103/dailyCodingSolution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
@@ -768,6 +769,7 @@ This repository is for the solution of my Daily Coding Question
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ankush210103/dailyCodingSolution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankush210103/dailyCodingSolution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [2792-neighboring-bitwise-xor](https://github.com/ankush210103/dailyCodingSolution/tree/master/2792-neighboring-bitwise-xor) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ankush210103/dailyCodingSolution/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Backtracking
