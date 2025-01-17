@@ -298,6 +298,7 @@ This repository is for the solution of my Daily Coding Question
 | [0234-palindrome-linked-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/ankush210103/dailyCodingSolution/tree/master/0273-integer-to-english-words) |
+| [0795-k-th-symbol-in-grammar](https://github.com/ankush210103/dailyCodingSolution/tree/master/0795-k-th-symbol-in-grammar) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankush210103/dailyCodingSolution/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 ## Divide and Conquer
 |  |
@@ -749,6 +750,7 @@ This repository is for the solution of my Daily Coding Question
 | [0539-minimum-time-difference](https://github.com/ankush210103/dailyCodingSolution/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ankush210103/dailyCodingSolution/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/ankush210103/dailyCodingSolution/tree/master/0650-2-keys-keyboard) |
+| [0795-k-th-symbol-in-grammar](https://github.com/ankush210103/dailyCodingSolution/tree/master/0795-k-th-symbol-in-grammar) |
 | [1240-stone-game-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/ankush210103/dailyCodingSolution/tree/master/1642-water-bottles) |
 | [2155-find-missing-observations](https://github.com/ankush210103/dailyCodingSolution/tree/master/2155-find-missing-observations) |
@@ -761,6 +763,7 @@ This repository is for the solution of my Daily Coding Question
 | [0078-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0078-subsets) |
 | [0268-missing-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/ankush210103/dailyCodingSolution/tree/master/0476-number-complement) |
+| [0795-k-th-symbol-in-grammar](https://github.com/ankush210103/dailyCodingSolution/tree/master/0795-k-th-symbol-in-grammar) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ankush210103/dailyCodingSolution/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ankush210103/dailyCodingSolution/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankush210103/dailyCodingSolution/tree/master/1786-count-the-number-of-consistent-strings) |
