@@ -513,6 +513,7 @@ This repository is for the solution of my Daily Coding Question
 | [2035-count-sub-islands](https://github.com/ankush210103/dailyCodingSolution/tree/master/2035-count-sub-islands) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ankush210103/dailyCodingSolution/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ankush210103/dailyCodingSolution/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/ankush210103/dailyCodingSolution/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -762,6 +763,7 @@ This repository is for the solution of my Daily Coding Question
 | [0795-k-th-symbol-in-grammar](https://github.com/ankush210103/dailyCodingSolution/tree/master/0795-k-th-symbol-in-grammar) |
 | [1240-stone-game-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/ankush210103/dailyCodingSolution/tree/master/1642-water-bottles) |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/ankush210103/dailyCodingSolution/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/ankush210103/dailyCodingSolution/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -905,6 +907,7 @@ This repository is for the solution of my Daily Coding Question
 ## Number Theory
 |  |
 | ------- |
+| [2106-find-greatest-common-divisor-of-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Brainteaser
 |  |
