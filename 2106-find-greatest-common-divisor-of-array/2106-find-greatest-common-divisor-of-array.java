@@ -19,20 +19,20 @@ class Solution {
         }
         return max;
     }
-    public static   int gcdOfNum(int[] arr,int a,int b){
+    public static int gcdOfNum(int a,int b){
         if(b<=0){
             return a;
         }
         int temp = b;
         b = a%b;
         a = temp;
-        return gcdOfNum(arr,a,b);
+        return gcdOfNum(a,b);
     }
 
     public int findGCD(int[] nums) {
          int a = maxElement(nums);
         int b = minElement(nums);
-       int res = gcdOfNum(nums,a,b);
+       int res = gcdOfNum(a,b);
        return res;
     }
 }
