@@ -515,6 +515,7 @@ This repository is for the solution of my Daily Coding Question
 | [2067-maximum-number-of-points-with-cost](https://github.com/ankush210103/dailyCodingSolution/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/ankush210103/dailyCodingSolution/tree/master/2145-grid-game) |
 | [2155-find-missing-observations](https://github.com/ankush210103/dailyCodingSolution/tree/master/2155-find-missing-observations) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/ankush210103/dailyCodingSolution/tree/master/2164-two-best-non-overlapping-events) |
@@ -595,6 +596,7 @@ This repository is for the solution of my Daily Coding Question
 | [1972-rotating-the-box](https://github.com/ankush210103/dailyCodingSolution/tree/master/1972-rotating-the-box) |
 | [2035-count-sub-islands](https://github.com/ankush210103/dailyCodingSolution/tree/master/2035-count-sub-islands) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2145-grid-game](https://github.com/ankush210103/dailyCodingSolution/tree/master/2145-grid-game) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ankush210103/dailyCodingSolution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2411-spiral-matrix-iv](https://github.com/ankush210103/dailyCodingSolution/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ankush210103/dailyCodingSolution/tree/master/2472-build-a-matrix-with-conditions) |
@@ -901,6 +903,7 @@ This repository is for the solution of my Daily Coding Question
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ankush210103/dailyCodingSolution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankush210103/dailyCodingSolution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ankush210103/dailyCodingSolution/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2145-grid-game](https://github.com/ankush210103/dailyCodingSolution/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankush210103/dailyCodingSolution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Game Theory
