@@ -649,6 +649,7 @@ This repository is for the solution of my Daily Coding Question
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ankush210103/dailyCodingSolution/tree/master/0042-trapping-rain-water) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0264-ugly-number-ii) |
@@ -702,6 +703,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/ankush210103/dailyCodingSolution/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/ankush210103/dailyCodingSolution/tree/master/0214-shortest-palindrome) |
@@ -789,6 +791,7 @@ This repository is for the solution of my Daily Coding Question
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ankush210103/dailyCodingSolution/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/ankush210103/dailyCodingSolution/tree/master/0051-n-queens) |
