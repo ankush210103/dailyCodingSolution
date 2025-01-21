@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-import java.util.List;
 
 class Solution {
 
@@ -28,12 +26,5 @@ class Solution {
         returnSubset(nums, index, res, response);
 
         return res;
-    }
-
-    public static void main(String[] args) {
-        Solution solution = new Solution();
-        int[] nums = {1, 2, 3};
-        List<List<Integer>> subsets = solution.subsets(nums);
-        System.out.println(subsets);
     }
 }
