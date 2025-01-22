@@ -303,6 +303,7 @@ This repository is for the solution of my Daily Coding Question
 | [0273-integer-to-english-words](https://github.com/ankush210103/dailyCodingSolution/tree/master/0273-integer-to-english-words) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ankush210103/dailyCodingSolution/tree/master/0795-k-th-symbol-in-grammar) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankush210103/dailyCodingSolution/tree/master/1667-find-kth-bit-in-nth-binary-string) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ankush210103/dailyCodingSolution/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -508,6 +509,7 @@ This repository is for the solution of my Daily Coding Question
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ankush210103/dailyCodingSolution/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1917-maximum-average-pass-ratio](https://github.com/ankush210103/dailyCodingSolution/tree/master/1917-maximum-average-pass-ratio) |
 | [1923-sentence-similarity-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1923-sentence-similarity-iii) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ankush210103/dailyCodingSolution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/ankush210103/dailyCodingSolution/tree/master/1972-rotating-the-box) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankush210103/dailyCodingSolution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/ankush210103/dailyCodingSolution/tree/master/2035-count-sub-islands) |
@@ -607,6 +609,7 @@ This repository is for the solution of my Daily Coding Question
 | [0239-sliding-window-maximum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0239-sliding-window-maximum) |
 | [0859-design-circular-deque](https://github.com/ankush210103/dailyCodingSolution/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ankush210103/dailyCodingSolution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ankush210103/dailyCodingSolution/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Sliding Window
 |  |
 | ------- |
@@ -636,6 +639,7 @@ This repository is for the solution of my Daily Coding Question
 | [1642-water-bottles](https://github.com/ankush210103/dailyCodingSolution/tree/master/1642-water-bottles) |
 | [1667-find-kth-bit-in-nth-binary-string](https://github.com/ankush210103/dailyCodingSolution/tree/master/1667-find-kth-bit-in-nth-binary-string) |
 | [1803-average-waiting-time](https://github.com/ankush210103/dailyCodingSolution/tree/master/1803-average-waiting-time) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ankush210103/dailyCodingSolution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankush210103/dailyCodingSolution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/ankush210103/dailyCodingSolution/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -767,6 +771,7 @@ This repository is for the solution of my Daily Coding Question
 | [0795-k-th-symbol-in-grammar](https://github.com/ankush210103/dailyCodingSolution/tree/master/0795-k-th-symbol-in-grammar) |
 | [1240-stone-game-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1240-stone-game-ii) |
 | [1642-water-bottles](https://github.com/ankush210103/dailyCodingSolution/tree/master/1642-water-bottles) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/ankush210103/dailyCodingSolution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/ankush210103/dailyCodingSolution/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/ankush210103/dailyCodingSolution/tree/master/2645-pass-the-pillow) |
