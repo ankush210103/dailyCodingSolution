@@ -296,6 +296,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ankush210103/dailyCodingSolution/tree/master/0021-merge-two-sorted-lists) |
+| [0050-powx-n](https://github.com/ankush210103/dailyCodingSolution/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/ankush210103/dailyCodingSolution/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/0234-palindrome-linked-list) |
@@ -760,6 +761,7 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0007-reverse-integer](https://github.com/ankush210103/dailyCodingSolution/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ankush210103/dailyCodingSolution/tree/master/0048-rotate-image) |
+| [0050-powx-n](https://github.com/ankush210103/dailyCodingSolution/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0264-ugly-number-ii) |
