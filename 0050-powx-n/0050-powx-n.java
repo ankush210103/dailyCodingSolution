@@ -6,7 +6,7 @@ class Solution {
 
         if(n<0){
              if (n == Integer.MIN_VALUE) {
-                // Reduce the power by 1 to avoid overflow, then adjust the result
+               
                 return 1 / (myPow(x, -(n + 1)) * x);
             }
             return 1 / myPow(x, -n);
