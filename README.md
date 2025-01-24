@@ -449,6 +449,7 @@ This repository is for the solution of my Daily Coding Question
 | [0037-sudoku-solver](https://github.com/ankush210103/dailyCodingSolution/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/ankush210103/dailyCodingSolution/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/ankush210103/dailyCodingSolution/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ankush210103/dailyCodingSolution/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/ankush210103/dailyCodingSolution/tree/master/0051-n-queens) |
 | [0075-sort-colors](https://github.com/ankush210103/dailyCodingSolution/tree/master/0075-sort-colors) |
@@ -806,6 +807,7 @@ This repository is for the solution of my Daily Coding Question
 | [0022-generate-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/ankush210103/dailyCodingSolution/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/ankush210103/dailyCodingSolution/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/ankush210103/dailyCodingSolution/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/ankush210103/dailyCodingSolution/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0078-subsets) |
