@@ -320,6 +320,7 @@ This repository is for the solution of my Daily Coding Question
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/ankush210103/dailyCodingSolution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankush210103/dailyCodingSolution/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/ankush210103/dailyCodingSolution/tree/master/0141-linked-list-cycle) |
@@ -446,6 +447,7 @@ This repository is for the solution of my Daily Coding Question
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
