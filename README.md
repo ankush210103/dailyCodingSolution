@@ -411,6 +411,7 @@ This repository is for the solution of my Daily Coding Question
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ankush210103/dailyCodingSolution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/2677-cousins-in-binary-tree-ii) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ankush210103/dailyCodingSolution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Breadth-First Search
 |  |
@@ -432,6 +433,7 @@ This repository is for the solution of my Daily Coding Question
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ankush210103/dailyCodingSolution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Topological Sort
@@ -447,6 +449,7 @@ This repository is for the solution of my Daily Coding Question
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankush210103/dailyCodingSolution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ankush210103/dailyCodingSolution/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/ankush210103/dailyCodingSolution/tree/master/2035-count-sub-islands) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Array
 |  |
 | ------- |
@@ -559,6 +562,7 @@ This repository is for the solution of my Daily Coding Question
 | [2699-count-the-number-of-fair-pairs](https://github.com/ankush210103/dailyCodingSolution/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2727-number-of-senior-citizens](https://github.com/ankush210103/dailyCodingSolution/tree/master/2727-number-of-senior-citizens) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ankush210103/dailyCodingSolution/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/ankush210103/dailyCodingSolution/tree/master/2846-robot-collisions) |
@@ -619,6 +623,7 @@ This repository is for the solution of my Daily Coding Question
 | [2411-spiral-matrix-iv](https://github.com/ankush210103/dailyCodingSolution/tree/master/2411-spiral-matrix-iv) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ankush210103/dailyCodingSolution/tree/master/2472-build-a-matrix-with-conditions) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Queue
 |  |
 | ------- |
