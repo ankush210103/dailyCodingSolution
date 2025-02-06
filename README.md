@@ -396,6 +396,7 @@ This repository is for the solution of my Daily Coding Question
 ## Depth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/ankush210103/dailyCodingSolution/tree/master/0386-lexicographical-numbers) |
 | [0684-redundant-connection](https://github.com/ankush210103/dailyCodingSolution/tree/master/0684-redundant-connection) |
@@ -419,6 +420,7 @@ This repository is for the solution of my Daily Coding Question
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0112-path-sum) |
 | [0407-trapping-rain-water-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0407-trapping-rain-water-ii) |
 | [0684-redundant-connection](https://github.com/ankush210103/dailyCodingSolution/tree/master/0684-redundant-connection) |
 | [0787-sliding-puzzle](https://github.com/ankush210103/dailyCodingSolution/tree/master/0787-sliding-puzzle) |
@@ -850,6 +852,7 @@ This repository is for the solution of my Daily Coding Question
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankush210103/dailyCodingSolution/tree/master/0789-kth-largest-element-in-a-stream) |
@@ -868,6 +871,7 @@ This repository is for the solution of my Daily Coding Question
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankush210103/dailyCodingSolution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankush210103/dailyCodingSolution/tree/master/0988-flip-equivalent-binary-trees) |
