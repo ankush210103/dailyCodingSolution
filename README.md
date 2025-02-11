@@ -695,6 +695,7 @@ This repository is for the solution of my Daily Coding Question
 | [0264-ugly-number-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0494-target-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0516-longest-palindromic-subsequence) |
 | [0650-2-keys-keyboard](https://github.com/ankush210103/dailyCodingSolution/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/ankush210103/dailyCodingSolution/tree/master/0664-strange-printer) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
@@ -755,6 +756,7 @@ This repository is for the solution of my Daily Coding Question
 | [0241-different-ways-to-add-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0273-integer-to-english-words](https://github.com/ankush210103/dailyCodingSolution/tree/master/0273-integer-to-english-words) |
 | [0402-remove-k-digits](https://github.com/ankush210103/dailyCodingSolution/tree/master/0402-remove-k-digits) |
+| [0516-longest-palindromic-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/ankush210103/dailyCodingSolution/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/ankush210103/dailyCodingSolution/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ankush210103/dailyCodingSolution/tree/master/0592-fraction-addition-and-subtraction) |
