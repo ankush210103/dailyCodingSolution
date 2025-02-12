@@ -592,6 +592,7 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0222-count-complete-tree-nodes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -827,6 +828,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0078-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0078-subsets) |
+| [0222-count-complete-tree-nodes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/ankush210103/dailyCodingSolution/tree/master/0476-number-complement) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ankush210103/dailyCodingSolution/tree/master/0795-k-th-symbol-in-grammar) |
@@ -863,6 +865,7 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0112-path-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0222-count-complete-tree-nodes) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankush210103/dailyCodingSolution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankush210103/dailyCodingSolution/tree/master/0988-flip-equivalent-binary-trees) |
@@ -882,6 +885,7 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0112-path-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0145-binary-tree-postorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0222-count-complete-tree-nodes) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankush210103/dailyCodingSolution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankush210103/dailyCodingSolution/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankush210103/dailyCodingSolution/tree/master/1207-delete-nodes-and-return-forest) |
