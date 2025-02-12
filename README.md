@@ -691,6 +691,7 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0022-generate-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ankush210103/dailyCodingSolution/tree/master/0042-trapping-rain-water) |
+| [0062-unique-paths](https://github.com/ankush210103/dailyCodingSolution/tree/master/0062-unique-paths) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0300-longest-increasing-subsequence) |
@@ -803,6 +804,7 @@ This repository is for the solution of my Daily Coding Question
 | [0007-reverse-integer](https://github.com/ankush210103/dailyCodingSolution/tree/master/0007-reverse-integer) |
 | [0048-rotate-image](https://github.com/ankush210103/dailyCodingSolution/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/ankush210103/dailyCodingSolution/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/ankush210103/dailyCodingSolution/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0264-ugly-number-ii) |
@@ -1025,5 +1027,6 @@ This repository is for the solution of my Daily Coding Question
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/ankush210103/dailyCodingSolution/tree/master/0062-unique-paths) |
 | [1307-ugly-number-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1307-ugly-number-iii) |
 <!---LeetCode Topics End-->
