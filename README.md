@@ -396,6 +396,7 @@ This repository is for the solution of my Daily Coding Question
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0112-path-sum) |
@@ -728,6 +729,7 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0020-valid-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/ankush210103/dailyCodingSolution/tree/master/0042-trapping-rain-water) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/0234-palindrome-linked-list) |
@@ -873,6 +875,7 @@ This repository is for the solution of my Daily Coding Question
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0112-path-sum) |
@@ -898,6 +901,7 @@ This repository is for the solution of my Daily Coding Question
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0112-path-sum) |
