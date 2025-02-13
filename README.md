@@ -397,6 +397,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/ankush210103/dailyCodingSolution/tree/master/0386-lexicographical-numbers) |
@@ -424,6 +425,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/ankush210103/dailyCodingSolution/tree/master/0404-sum-of-left-leaves) |
 | [0407-trapping-rain-water-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0407-trapping-rain-water-ii) |
@@ -870,6 +872,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0222-count-complete-tree-nodes) |
@@ -893,6 +896,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0111-minimum-depth-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0112-path-sum) |
 | [0145-binary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0222-count-complete-tree-nodes) |
