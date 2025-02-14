@@ -5,27 +5,25 @@ class Solution {
         ArrayList<Integer> ds = new ArrayList<>();
         
         for (int i = 1; i < n; i++) {
-            fact *= i;       // Compute factorial
-            ds.add(i);       // Add numbers 1 to (n-1) to the list
+            fact *= i;    
+            ds.add(i);      
         }
-        ds.add(n);           // Add the last number (n)
+        ds.add(n);         
         
-        // Convert k to 0-based index for easier calculations
         k = k - 1;
-        String ans = "";     // Store the k-th permutation
-        
-        // Construct the permutation
+        String ans = "";   
+      
         while (true) {
-            // Append the number at index (k / fact) in ds to the answer
+           
             ans = ans + ds.get(k / fact);
-            ds.remove(k / fact); // Remove the used number from the list
+            ds.remove(k / fact); 
             
-            // If all numbers are used, break
+           
             if (ds.size() == 0) {
                 break;
             }
             
-            // Update k and fact for the remaining numbers
+           
             k = k % fact;
             fact = fact / ds.size();
         }
