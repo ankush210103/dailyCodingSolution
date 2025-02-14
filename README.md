@@ -717,6 +717,7 @@ This repository is for the solution of my Daily Coding Question
 | [0300-longest-increasing-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0494-target-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0516-longest-palindromic-subsequence) |
+| [0600-non-negative-integers-without-consecutive-ones](https://github.com/ankush210103/dailyCodingSolution/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0650-2-keys-keyboard](https://github.com/ankush210103/dailyCodingSolution/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/ankush210103/dailyCodingSolution/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
