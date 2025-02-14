@@ -734,6 +734,7 @@ This repository is for the solution of my Daily Coding Question
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ankush210103/dailyCodingSolution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ankush210103/dailyCodingSolution/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2164-two-best-non-overlapping-events](https://github.com/ankush210103/dailyCodingSolution/tree/master/2164-two-best-non-overlapping-events) |
+| [2577-count-palindromic-subsequences](https://github.com/ankush210103/dailyCodingSolution/tree/master/2577-count-palindromic-subsequences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2586-longest-square-streak-in-an-array) |
 ## Stack
 |  |
@@ -816,6 +817,7 @@ This repository is for the solution of my Daily Coding Question
 | [2465-shifting-letters-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ankush210103/dailyCodingSolution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/ankush210103/dailyCodingSolution/tree/master/2502-sort-the-people) |
+| [2577-count-palindromic-subsequences](https://github.com/ankush210103/dailyCodingSolution/tree/master/2577-count-palindromic-subsequences) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ankush210103/dailyCodingSolution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2727-number-of-senior-citizens](https://github.com/ankush210103/dailyCodingSolution/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ankush210103/dailyCodingSolution/tree/master/2800-minimum-string-length-after-removing-substrings) |
