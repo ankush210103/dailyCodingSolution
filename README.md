@@ -512,6 +512,7 @@ This repository is for the solution of my Daily Coding Question
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ankush210103/dailyCodingSolution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0906-walking-robot-simulation](https://github.com/ankush210103/dailyCodingSolution/tree/master/0906-walking-robot-simulation) |
 | [0921-spiral-matrix-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0921-spiral-matrix-iii) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/ankush210103/dailyCodingSolution/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0943-sum-of-subarray-minimums](https://github.com/ankush210103/dailyCodingSolution/tree/master/0943-sum-of-subarray-minimums) |
 | [0948-sort-an-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0952-word-subsets) |
@@ -614,6 +615,7 @@ This repository is for the solution of my Daily Coding Question
 | [0729-my-calendar-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ankush210103/dailyCodingSolution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/ankush210103/dailyCodingSolution/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1307-ugly-number-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1307-ugly-number-iii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ankush210103/dailyCodingSolution/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -720,6 +722,7 @@ This repository is for the solution of my Daily Coding Question
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/ankush210103/dailyCodingSolution/tree/master/0747-min-cost-climbing-stairs) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/ankush210103/dailyCodingSolution/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0943-sum-of-subarray-minimums](https://github.com/ankush210103/dailyCodingSolution/tree/master/0943-sum-of-subarray-minimums) |
 | [1025-minimum-cost-for-tickets](https://github.com/ankush210103/dailyCodingSolution/tree/master/1025-minimum-cost-for-tickets) |
 | [1196-filling-bookcase-shelves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1196-filling-bookcase-shelves) |
@@ -787,6 +790,7 @@ This repository is for the solution of my Daily Coding Question
 | [0664-strange-printer](https://github.com/ankush210103/dailyCodingSolution/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/ankush210103/dailyCodingSolution/tree/master/0726-number-of-atoms) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/ankush210103/dailyCodingSolution/tree/master/0920-uncommon-words-from-two-sentences) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/ankush210103/dailyCodingSolution/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0952-word-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankush210103/dailyCodingSolution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1250-longest-common-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/1250-longest-common-subsequence) |
@@ -838,6 +842,7 @@ This repository is for the solution of my Daily Coding Question
 | [0592-fraction-addition-and-subtraction](https://github.com/ankush210103/dailyCodingSolution/tree/master/0592-fraction-addition-and-subtraction) |
 | [0650-2-keys-keyboard](https://github.com/ankush210103/dailyCodingSolution/tree/master/0650-2-keys-keyboard) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ankush210103/dailyCodingSolution/tree/master/0795-k-th-symbol-in-grammar) |
+| [0938-numbers-at-most-n-given-digit-set](https://github.com/ankush210103/dailyCodingSolution/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1240-stone-game-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1240-stone-game-ii) |
 | [1307-ugly-number-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1307-ugly-number-iii) |
 | [1642-water-bottles](https://github.com/ankush210103/dailyCodingSolution/tree/master/1642-water-bottles) |
