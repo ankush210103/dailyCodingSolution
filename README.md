@@ -708,6 +708,7 @@ This repository is for the solution of my Daily Coding Question
 | [0062-unique-paths](https://github.com/ankush210103/dailyCodingSolution/tree/master/0062-unique-paths) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/ankush210103/dailyCodingSolution/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0132-palindrome-partitioning-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0300-longest-increasing-subsequence) |
@@ -771,6 +772,7 @@ This repository is for the solution of my Daily Coding Question
 | [0093-restore-ip-addresses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0093-restore-ip-addresses) |
 | [0125-valid-palindrome](https://github.com/ankush210103/dailyCodingSolution/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/ankush210103/dailyCodingSolution/tree/master/0131-palindrome-partitioning) |
+| [0132-palindrome-partitioning-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/ankush210103/dailyCodingSolution/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0241-different-ways-to-add-parentheses) |
