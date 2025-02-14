@@ -501,6 +501,7 @@ This repository is for the solution of my Daily Coding Question
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankush210103/dailyCodingSolution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ankush210103/dailyCodingSolution/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0731-my-calendar-ii) |
@@ -722,6 +723,7 @@ This repository is for the solution of my Daily Coding Question
 | [0664-strange-printer](https://github.com/ankush210103/dailyCodingSolution/tree/master/0664-strange-printer) |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0747-min-cost-climbing-stairs](https://github.com/ankush210103/dailyCodingSolution/tree/master/0747-min-cost-climbing-stairs) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ankush210103/dailyCodingSolution/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0943-sum-of-subarray-minimums](https://github.com/ankush210103/dailyCodingSolution/tree/master/0943-sum-of-subarray-minimums) |
@@ -862,6 +864,7 @@ This repository is for the solution of my Daily Coding Question
 | [0222-count-complete-tree-nodes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/ankush210103/dailyCodingSolution/tree/master/0476-number-complement) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0795-k-th-symbol-in-grammar](https://github.com/ankush210103/dailyCodingSolution/tree/master/0795-k-th-symbol-in-grammar) |
 | [1022-unique-paths-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1022-unique-paths-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ankush210103/dailyCodingSolution/tree/master/1435-xor-queries-of-a-subarray) |
@@ -890,6 +893,7 @@ This repository is for the solution of my Daily Coding Question
 | [0131-palindrome-partitioning](https://github.com/ankush210103/dailyCodingSolution/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0216-combination-sum-iii) |
 | [0494-target-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0494-target-sum) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1022-unique-paths-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1022-unique-paths-iii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ankush210103/dailyCodingSolution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 ## Tree
@@ -1033,6 +1037,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0241-different-ways-to-add-parentheses) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -1079,4 +1084,8 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0062-unique-paths](https://github.com/ankush210103/dailyCodingSolution/tree/master/0062-unique-paths) |
 | [1307-ugly-number-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1307-ugly-number-iii) |
+## Bitmask
+|  |
+| ------- |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
 <!---LeetCode Topics End-->
