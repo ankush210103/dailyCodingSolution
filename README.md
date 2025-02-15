@@ -407,6 +407,7 @@ This repository is for the solution of my Daily Coding Question
 | [0145-binary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0386-lexicographical-numbers](https://github.com/ankush210103/dailyCodingSolution/tree/master/0386-lexicographical-numbers) |
 | [0404-sum-of-left-leaves](https://github.com/ankush210103/dailyCodingSolution/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/ankush210103/dailyCodingSolution/tree/master/0684-redundant-connection) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0820-find-eventual-safe-states](https://github.com/ankush210103/dailyCodingSolution/tree/master/0820-find-eventual-safe-states) |
@@ -911,6 +912,7 @@ This repository is for the solution of my Daily Coding Question
 | [0145-binary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/ankush210103/dailyCodingSolution/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankush210103/dailyCodingSolution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankush210103/dailyCodingSolution/tree/master/0988-flip-equivalent-binary-trees) |
@@ -938,6 +940,7 @@ This repository is for the solution of my Daily Coding Question
 | [0145-binary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0222-count-complete-tree-nodes) |
 | [0404-sum-of-left-leaves](https://github.com/ankush210103/dailyCodingSolution/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankush210103/dailyCodingSolution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankush210103/dailyCodingSolution/tree/master/0988-flip-equivalent-binary-trees) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankush210103/dailyCodingSolution/tree/master/1207-delete-nodes-and-return-forest) |
