@@ -14,17 +14,41 @@
  * }
  */
 class Solution {
-    public static void solve(TreeNode root,List<Integer> res){
-        if(root == null ) return;
-        solve(root.left,res);
-        res.add(root.val);
-        solve(root.right,res);
+    class Pair{
+        TreeNode first;
+        int second;
+        Pair(TreeNode first,int second){
+            this.first = first;
+            this.second = second;
+        }
+    }
 
+    public void solve(TreeNode root,List<Integer> res){
+      
+        Stack<Pair> st = new Stack<>();
+        if(root != null){
+            st.push(new Pair(root,0));
+        }
+        while(!st.isEmpty()){
+            Pair temp = st.pop();
+            if(temp.first == null) continue;
+            if(temp.second == 1){
+                res.add(temp.first.val);
+            }else{
+            if(temp.first.right != null){
+            st.push(new Pair(temp.first.right,0));
+            }
+            st.push(new Pair(temp.first,1));
+            if(temp.first.left != null){
+            st.push(new Pair(temp.first.left,0));
+            }
+        }
+    }
     }
 
     public List<Integer> inorderTraversal(TreeNode root) {
-        List<Integer> res = new ArrayList<>();
-        solve(root,res);
-        return res;
+       List<Integer> res = new ArrayList<>();
+       solve(root,res);
+       return res;
     }
 }
