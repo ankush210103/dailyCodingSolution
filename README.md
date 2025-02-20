@@ -173,6 +173,7 @@ This repository is for the solution of my Daily Coding Question
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ankush210103/dailyCodingSolution/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/ankush210103/dailyCodingSolution/tree/master/0402-remove-k-digits) |
@@ -372,6 +373,7 @@ This repository is for the solution of my Daily Coding Question
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/ankush210103/dailyCodingSolution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/ankush210103/dailyCodingSolution/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/ankush210103/dailyCodingSolution/tree/master/0075-sort-colors) |
@@ -478,6 +480,7 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0001-two-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/ankush210103/dailyCodingSolution/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/ankush210103/dailyCodingSolution/tree/master/0036-valid-sudoku) |
