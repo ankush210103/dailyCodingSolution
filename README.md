@@ -930,6 +930,7 @@ This repository is for the solution of my Daily Coding Question
 | [0404-sum-of-left-leaves](https://github.com/ankush210103/dailyCodingSolution/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0543-diameter-of-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankush210103/dailyCodingSolution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankush210103/dailyCodingSolution/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -962,6 +963,7 @@ This repository is for the solution of my Daily Coding Question
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/ankush210103/dailyCodingSolution/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0543-diameter-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankush210103/dailyCodingSolution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankush210103/dailyCodingSolution/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -1029,6 +1031,7 @@ This repository is for the solution of my Daily Coding Question
 ## Binary Search Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/0783-search-in-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankush210103/dailyCodingSolution/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Data Stream
 |  |
