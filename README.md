@@ -330,6 +330,7 @@ This repository is for the solution of my Daily Coding Question
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/ankush210103/dailyCodingSolution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankush210103/dailyCodingSolution/tree/master/0037-sudoku-solver) |
+| [0128-longest-consecutive-sequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/ankush210103/dailyCodingSolution/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ankush210103/dailyCodingSolution/tree/master/0160-intersection-of-two-linked-lists) |
@@ -479,6 +480,7 @@ This repository is for the solution of my Daily Coding Question
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/ankush210103/dailyCodingSolution/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankush210103/dailyCodingSolution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ankush210103/dailyCodingSolution/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -502,6 +504,7 @@ This repository is for the solution of my Daily Coding Question
 | [0075-sort-colors](https://github.com/ankush210103/dailyCodingSolution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0179-largest-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0216-combination-sum-iii) |
