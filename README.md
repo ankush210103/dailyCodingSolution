@@ -506,6 +506,7 @@ This repository is for the solution of my Daily Coding Question
 | [0078-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0128-longest-consecutive-sequence) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0189-rotate-array) |
 | [0216-combination-sum-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0216-combination-sum-iii) |
@@ -629,6 +630,7 @@ This repository is for the solution of my Daily Coding Question
 | [0004-median-of-two-sorted-arrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0300-longest-increasing-subsequence) |
