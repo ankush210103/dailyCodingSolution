@@ -455,6 +455,7 @@ This repository is for the solution of my Daily Coding Question
 | [0787-sliding-puzzle](https://github.com/ankush210103/dailyCodingSolution/tree/master/0787-sliding-puzzle) |
 | [0820-find-eventual-safe-states](https://github.com/ankush210103/dailyCodingSolution/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/ankush210103/dailyCodingSolution/tree/master/1036-rotting-oranges) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ankush210103/dailyCodingSolution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -545,6 +546,7 @@ This repository is for the solution of my Daily Coding Question
 | [1002-maximum-width-ramp](https://github.com/ankush210103/dailyCodingSolution/tree/master/1002-maximum-width-ramp) |
 | [1022-unique-paths-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/ankush210103/dailyCodingSolution/tree/master/1025-minimum-cost-for-tickets) |
+| [1036-rotting-oranges](https://github.com/ankush210103/dailyCodingSolution/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ankush210103/dailyCodingSolution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankush210103/dailyCodingSolution/tree/master/1207-delete-nodes-and-return-forest) |
@@ -666,6 +668,7 @@ This repository is for the solution of my Daily Coding Question
 | [0787-sliding-puzzle](https://github.com/ankush210103/dailyCodingSolution/tree/master/0787-sliding-puzzle) |
 | [0921-spiral-matrix-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0921-spiral-matrix-iii) |
 | [1022-unique-paths-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1022-unique-paths-iii) |
+| [1036-rotting-oranges](https://github.com/ankush210103/dailyCodingSolution/tree/master/1036-rotting-oranges) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ankush210103/dailyCodingSolution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
