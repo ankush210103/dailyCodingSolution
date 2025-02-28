@@ -428,6 +428,7 @@ This repository is for the solution of my Daily Coding Question
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankush210103/dailyCodingSolution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [0988-flip-equivalent-binary-trees](https://github.com/ankush210103/dailyCodingSolution/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankush210103/dailyCodingSolution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ankush210103/dailyCodingSolution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1484-linked-list-in-binary-tree) |
@@ -462,6 +463,7 @@ This repository is for the solution of my Daily Coding Question
 | [0820-find-eventual-safe-states](https://github.com/ankush210103/dailyCodingSolution/tree/master/0820-find-eventual-safe-states) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ankush210103/dailyCodingSolution/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1073-number-of-enclaves) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ankush210103/dailyCodingSolution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -496,6 +498,7 @@ This repository is for the solution of my Daily Coding Question
 | [0547-number-of-provinces](https://github.com/ankush210103/dailyCodingSolution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/ankush210103/dailyCodingSolution/tree/master/0684-redundant-connection) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankush210103/dailyCodingSolution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
+| [1073-number-of-enclaves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1073-number-of-enclaves) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ankush210103/dailyCodingSolution/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2035-count-sub-islands](https://github.com/ankush210103/dailyCodingSolution/tree/master/2035-count-sub-islands) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -558,6 +561,7 @@ This repository is for the solution of my Daily Coding Question
 | [1022-unique-paths-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/ankush210103/dailyCodingSolution/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/ankush210103/dailyCodingSolution/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ankush210103/dailyCodingSolution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1196-filling-bookcase-shelves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1196-filling-bookcase-shelves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankush210103/dailyCodingSolution/tree/master/1207-delete-nodes-and-return-forest) |
@@ -683,6 +687,7 @@ This repository is for the solution of my Daily Coding Question
 | [0921-spiral-matrix-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0921-spiral-matrix-iii) |
 | [1022-unique-paths-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/ankush210103/dailyCodingSolution/tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ankush210103/dailyCodingSolution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
