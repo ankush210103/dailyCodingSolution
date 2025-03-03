@@ -1,30 +1,50 @@
 class Solution {
     public List<Integer> eventualSafeNodes(int[][] graph) {
-        int n = graph.length;
-        int[] state = new int[n]; // 0: unvisited, 1: visiting, 2: safe
-        List<Integer> safe = new ArrayList<>();
+        ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
 
-        for (int i = 0; i < n; i++) {
-            if (dfs(graph, i, state)) {
-                safe.add(i);
+        for(int i=0;i<graph.length;i++){
+            adj.add(new ArrayList<>());
+        }   
+        for(int i=0;i<graph.length;i++){
+            for(int j=0;j<graph[i].length;j++){
+                adj.get(graph[i][j]).add(i);
             }
         }
-        
-        return safe;
-    }
+        int[] visited = new int[graph.length];
 
-    private boolean dfs(int[][] graph, int node, int[] state) {
-        if (state[node] > 0) return state[node] == 2; // Already safe
-        
-        state[node] = 1; // Mark as visiting
-        
-        for (int next : graph[node]) {
-            if (state[next] == 1 || !dfs(graph, next, state)) {
-                return false; // Cycle detected
+        for(int i=0;i<graph.length;i++){
+            for(int it : adj.get(i)){
+                visited[it]++;
             }
         }
-        
-        state[node] = 2; // Mark as safe
-        return true;
+
+        Queue<Integer> q = new LinkedList<>();
+
+        for(int i=0;i<graph.length;i++){
+            if(visited[i] == 0){
+                q.add(i);
+            }
+        }
+        ArrayList<Integer> temp = new ArrayList<>();
+        while(!q.isEmpty()){
+            int node = q.remove();
+            temp.add(node);
+
+            for(int it : adj.get(node)){
+                visited[it]--;
+                if(visited[it] == 0){
+                    q.add(it);
+                }
+            }
+        }
+        Collections.sort(temp);
+
+        return temp;
+
+
+
+
+
+
     }
 }
