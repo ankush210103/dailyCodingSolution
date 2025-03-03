@@ -584,6 +584,7 @@ This repository is for the solution of my Daily Coding Question
 | [1511-count-number-of-teams](https://github.com/ankush210103/dailyCodingSolution/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/1524-string-matching-in-an-array) |
 | [1556-make-two-arrays-equal-by-reversing-subarrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/1556-make-two-arrays-equal-by-reversing-subarrays) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankush210103/dailyCodingSolution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankush210103/dailyCodingSolution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/ankush210103/dailyCodingSolution/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -670,6 +671,7 @@ This repository is for the solution of my Daily Coding Question
 | [1307-ugly-number-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1307-ugly-number-iii) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ankush210103/dailyCodingSolution/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankush210103/dailyCodingSolution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1615-range-sum-of-sorted-subarray-sums](https://github.com/ankush210103/dailyCodingSolution/tree/master/1615-range-sum-of-sorted-subarray-sums) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankush210103/dailyCodingSolution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2164-two-best-non-overlapping-events](https://github.com/ankush210103/dailyCodingSolution/tree/master/2164-two-best-non-overlapping-events) |
