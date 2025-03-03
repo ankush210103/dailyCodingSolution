@@ -575,6 +575,7 @@ This repository is for the solution of my Daily Coding Question
 | [1293-three-consecutive-odds](https://github.com/ankush210103/dailyCodingSolution/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/ankush210103/dailyCodingSolution/tree/master/1325-path-with-maximum-probability) |
 | [1333-sort-the-jumbled-numbers](https://github.com/ankush210103/dailyCodingSolution/tree/master/1333-sort-the-jumbled-numbers) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ankush210103/dailyCodingSolution/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1435-xor-queries-of-a-subarray](https://github.com/ankush210103/dailyCodingSolution/tree/master/1435-xor-queries-of-a-subarray) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ankush210103/dailyCodingSolution/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -669,6 +670,7 @@ This repository is for the solution of my Daily Coding Question
 | [0907-koko-eating-bananas](https://github.com/ankush210103/dailyCodingSolution/tree/master/0907-koko-eating-bananas) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ankush210103/dailyCodingSolution/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [1307-ugly-number-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1307-ugly-number-iii) |
+| [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/ankush210103/dailyCodingSolution/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/ankush210103/dailyCodingSolution/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/ankush210103/dailyCodingSolution/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
