@@ -1,36 +1,41 @@
 class Solution {
-    public int minDays(int[] bloomDay, int m, int k) {
-        int left = 1, right = 1000000000;
-        int result = -1;
 
-        while (left <= right) {
-            int mid = left + (right - left) / 2;
-            if (canMakeBouquets(bloomDay, m, k, mid)) {
-                result = mid;
-                right = mid - 1;
-            } else {
-                left = mid + 1;
+    public static boolean ifPossible(int[] arr,int day,int m,int k){
+        int count =0;
+        int numOfB = 0;
+        for(int i=0;i<arr.length;i++){
+            if(arr[i]<= day){
+                count++;
+            }else{
+                numOfB += (count/k);
+                count =0;
             }
         }
-
-        return result;
+        numOfB += (count/k);
+        return numOfB >= m;
     }
 
-    private boolean canMakeBouquets(int[] bloomDay, int m, int k, int days) {
-        int consecutiveFlowers = 0, bouquetCount = 0;
-
-        for (int bloom : bloomDay) {
-            if (bloom <= days) {
-                consecutiveFlowers++;
-                if (consecutiveFlowers == k) {
-                    bouquetCount++;
-                    consecutiveFlowers = 0;
-                }
-            } else {
-                consecutiveFlowers = 0;
+    public int minDays(int[] bloomDay, int m, int k) {
+        
+        int min = Integer.MAX_VALUE;
+        int max = Integer.MIN_VALUE;
+        int n = bloomDay.length;
+        if((long)m*k > n) return -1;
+        for(int i=0;i<n;i++){
+            min = Math.min(min, bloomDay[i]);
+            max = Math.max(max,bloomDay[i]);
+        }
+        int low = min,high = max;
+        while(low<=high){
+            int mid = low + (high-low)/2;
+            if(ifPossible(bloomDay,mid,m,k)){
+                high = mid-1;
+            }else{
+                low = mid+1;
             }
         }
 
-        return bouquetCount >= m;
+        return low;
+
     }
 }
