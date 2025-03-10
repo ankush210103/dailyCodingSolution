@@ -177,6 +177,7 @@ This repository is for the solution of my Daily Coding Question
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/ankush210103/dailyCodingSolution/tree/master/0402-remove-k-digits) |
+| [0410-split-array-largest-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankush210103/dailyCodingSolution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0890-lemonade-change](https://github.com/ankush210103/dailyCodingSolution/tree/master/0890-lemonade-change) |
@@ -545,6 +546,7 @@ This repository is for the solution of my Daily Coding Question
 | [0300-longest-increasing-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0407-trapping-rain-water-ii) |
+| [0410-split-array-largest-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0494-target-sum) |
 | [0503-next-greater-element-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0503-next-greater-element-ii) |
 | [0539-minimum-time-difference](https://github.com/ankush210103/dailyCodingSolution/tree/master/0539-minimum-time-difference) |
@@ -673,6 +675,7 @@ This repository is for the solution of my Daily Coding Question
 | [0268-missing-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0410-split-array-largest-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0410-split-array-largest-sum) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ankush210103/dailyCodingSolution/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0731-my-calendar-ii) |
@@ -788,6 +791,7 @@ This repository is for the solution of my Daily Coding Question
 | [0241-different-ways-to-add-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0300-longest-increasing-subsequence) |
+| [0410-split-array-largest-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0516-longest-palindromic-subsequence) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/ankush210103/dailyCodingSolution/tree/master/0600-non-negative-integers-without-consecutive-ones) |
@@ -1106,6 +1110,7 @@ This repository is for the solution of my Daily Coding Question
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0410-split-array-largest-sum) |
 | [0731-my-calendar-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0731-my-calendar-ii) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ankush210103/dailyCodingSolution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1240-stone-game-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1240-stone-game-ii) |
