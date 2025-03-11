@@ -1,38 +1,63 @@
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
-        int[] arr = new int[nums1.length+ nums2.length];
+        int n1 = nums1.length;
+        int n2 = nums2.length;
+        int n = n1+n2;
+        int index = n/2;
+        int secondIndex = index-1;
+        int firstElement = -1;
+        int secondElement = -1;
+        int count=0;
         int i=0;
         int j=0;
-        int k=0;
-        while(i<nums1.length && j<nums2.length){
-            if(nums1[i]<nums2[j]){
-                arr[k] = nums1[i];
+        while(i<n1 && j<n2){
+            if(nums1[i] < nums2[j]){
+                if(count == index){
+                    firstElement = nums1[i];
+                }
+                if(count == secondIndex){
+                    secondElement = nums1[i];
+                }
                 i++;
+                count++;
             }else{
-                arr[k] = nums2[j];
+                if(count == index){
+                    firstElement = nums2[j];
+                }
+                if(count == secondIndex){
+                    secondElement = nums2[j];
+                }
+                count++;
                 j++;
             }
-            k++;
         }
 
-        while(i<nums1.length){
-            arr[k++] = nums1[i++];
+        while(i<n1){
+            if(count == index){
+                firstElement = nums1[i];
+            }
+            if(count == secondIndex){
+                secondElement = nums1[i];
+            }
+            i++;
+            count++;
         }
-
-        while(j<nums2.length){
-            arr[k++] = nums2[j++];
+        while(j<n2){
+            if(count == index){
+                firstElement = nums2[j];
+            }
+            if(count == secondIndex){
+                secondElement = nums2[j];
+            }
+            j++;
+            count++;
         }
-       if(arr.length%2==0){
-        int idx = (arr.length-1)/2;
-        System.out.print(arr[idx]+"  "+(arr[idx+1]));
-            double res  = (arr[idx] + arr[idx+1])/(double)2;
-            return res;
-       }else{
-            int idx = arr.length/2;
-            double res = arr[idx];
-            return res;
-       }
-      
+        System.out.println(firstElement+"  "+ secondElement);
+        if(n%2!= 0){
+            return (double)firstElement;
+        }else{
+            return (double)(firstElement+secondElement)/2.0;
+        }
 
     }
 }
