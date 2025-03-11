@@ -531,6 +531,7 @@ This repository is for the solution of my Daily Coding Question
 | [0046-permutations](https://github.com/ankush210103/dailyCodingSolution/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ankush210103/dailyCodingSolution/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/ankush210103/dailyCodingSolution/tree/master/0051-n-queens) |
+| [0074-search-a-2d-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ankush210103/dailyCodingSolution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0078-subsets) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -670,6 +671,7 @@ This repository is for the solution of my Daily Coding Question
 | [0004-median-of-two-sorted-arrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0268-missing-number) |
@@ -704,6 +706,7 @@ This repository is for the solution of my Daily Coding Question
 | [0036-valid-sudoku](https://github.com/ankush210103/dailyCodingSolution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankush210103/dailyCodingSolution/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/ankush210103/dailyCodingSolution/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/ankush210103/dailyCodingSolution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ankush210103/dailyCodingSolution/tree/master/0200-number-of-islands) |
 | [0407-trapping-rain-water-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0407-trapping-rain-water-ii) |
