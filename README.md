@@ -210,6 +210,7 @@ This repository is for the solution of my Daily Coding Question
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ankush210103/dailyCodingSolution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ankush210103/dailyCodingSolution/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ankush210103/dailyCodingSolution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ankush210103/dailyCodingSolution/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ankush210103/dailyCodingSolution/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ankush210103/dailyCodingSolution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -507,6 +508,7 @@ This repository is for the solution of my Daily Coding Question
 | [0210-course-schedule-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/ankush210103/dailyCodingSolution/tree/master/0820-find-eventual-safe-states) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ankush210103/dailyCodingSolution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ankush210103/dailyCodingSolution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/ankush210103/dailyCodingSolution/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2472-build-a-matrix-with-conditions](https://github.com/ankush210103/dailyCodingSolution/tree/master/2472-build-a-matrix-with-conditions) |
 ## Union Find
@@ -830,6 +832,7 @@ This repository is for the solution of my Daily Coding Question
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/ankush210103/dailyCodingSolution/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/ankush210103/dailyCodingSolution/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [2067-maximum-number-of-points-with-cost](https://github.com/ankush210103/dailyCodingSolution/tree/master/2067-maximum-number-of-points-with-cost) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ankush210103/dailyCodingSolution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/ankush210103/dailyCodingSolution/tree/master/2164-two-best-non-overlapping-events) |
 | [2577-count-palindromic-subsequences](https://github.com/ankush210103/dailyCodingSolution/tree/master/2577-count-palindromic-subsequences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2586-longest-square-streak-in-an-array) |
@@ -1090,6 +1093,7 @@ This repository is for the solution of my Daily Coding Question
 | [1325-path-with-maximum-probability](https://github.com/ankush210103/dailyCodingSolution/tree/master/1325-path-with-maximum-probability) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ankush210103/dailyCodingSolution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/ankush210103/dailyCodingSolution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2171-second-minimum-time-to-reach-destination](https://github.com/ankush210103/dailyCodingSolution/tree/master/2171-second-minimum-time-to-reach-destination) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/ankush210103/dailyCodingSolution/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
