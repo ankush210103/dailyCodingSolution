@@ -207,6 +207,7 @@ This repository is for the solution of my Daily Coding Question
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankush210103/dailyCodingSolution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1325-path-with-maximum-probability](https://github.com/ankush210103/dailyCodingSolution/tree/master/1325-path-with-maximum-probability) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ankush210103/dailyCodingSolution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/ankush210103/dailyCodingSolution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/ankush210103/dailyCodingSolution/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ankush210103/dailyCodingSolution/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
@@ -443,6 +444,7 @@ This repository is for the solution of my Daily Coding Question
 | [1073-number-of-enclaves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1073-number-of-enclaves) |
 | [1207-delete-nodes-and-return-forest](https://github.com/ankush210103/dailyCodingSolution/tree/master/1207-delete-nodes-and-return-forest) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ankush210103/dailyCodingSolution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/ankush210103/dailyCodingSolution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1484-linked-list-in-binary-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1653-number-of-good-leaf-nodes-pairs](https://github.com/ankush210103/dailyCodingSolution/tree/master/1653-number-of-good-leaf-nodes-pairs) |
@@ -483,6 +485,7 @@ This repository is for the solution of my Daily Coding Question
 | [1073-number-of-enclaves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/ankush210103/dailyCodingSolution/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/ankush210103/dailyCodingSolution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1484-linked-list-in-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1484-linked-list-in-binary-tree) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -522,6 +525,7 @@ This repository is for the solution of my Daily Coding Question
 | [0801-is-graph-bipartite](https://github.com/ankush210103/dailyCodingSolution/tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/ankush210103/dailyCodingSolution/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1073-number-of-enclaves) |
+| [1442-number-of-operations-to-make-network-connected](https://github.com/ankush210103/dailyCodingSolution/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/ankush210103/dailyCodingSolution/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [1753-path-with-minimum-effort](https://github.com/ankush210103/dailyCodingSolution/tree/master/1753-path-with-minimum-effort) |
 | [2035-count-sub-islands](https://github.com/ankush210103/dailyCodingSolution/tree/master/2035-count-sub-islands) |
