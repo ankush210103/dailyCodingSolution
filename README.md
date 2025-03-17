@@ -327,6 +327,7 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/ankush210103/dailyCodingSolution/tree/master/0023-merge-k-sorted-lists) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -558,6 +559,7 @@ This repository is for the solution of my Daily Coding Question
 | [0200-number-of-islands](https://github.com/ankush210103/dailyCodingSolution/tree/master/0200-number-of-islands) |
 | [0216-combination-sum-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0216-combination-sum-iii) |
 | [0239-sliding-window-maximum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0239-sliding-window-maximum) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -691,6 +693,7 @@ This repository is for the solution of my Daily Coding Question
 | [0074-search-a-2d-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0222-count-complete-tree-nodes](https://github.com/ankush210103/dailyCodingSolution/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -727,6 +730,7 @@ This repository is for the solution of my Daily Coding Question
 | [0074-search-a-2d-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/ankush210103/dailyCodingSolution/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ankush210103/dailyCodingSolution/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0240-search-a-2d-matrix-ii) |
 | [0407-trapping-rain-water-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0407-trapping-rain-water-ii) |
 | [0733-flood-fill](https://github.com/ankush210103/dailyCodingSolution/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/ankush210103/dailyCodingSolution/tree/master/0787-sliding-puzzle) |
