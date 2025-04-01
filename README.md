@@ -650,6 +650,7 @@ This repository is for the solution of my Daily Coding Question
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/ankush210103/dailyCodingSolution/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/ankush210103/dailyCodingSolution/tree/master/2232-adding-spaces-to-a-string) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2262-solving-questions-with-brainpower](https://github.com/ankush210103/dailyCodingSolution/tree/master/2262-solving-questions-with-brainpower) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ankush210103/dailyCodingSolution/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/ankush210103/dailyCodingSolution/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ankush210103/dailyCodingSolution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -845,6 +846,7 @@ This repository is for the solution of my Daily Coding Question
 | [2067-maximum-number-of-points-with-cost](https://github.com/ankush210103/dailyCodingSolution/tree/master/2067-maximum-number-of-points-with-cost) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/ankush210103/dailyCodingSolution/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2164-two-best-non-overlapping-events](https://github.com/ankush210103/dailyCodingSolution/tree/master/2164-two-best-non-overlapping-events) |
+| [2262-solving-questions-with-brainpower](https://github.com/ankush210103/dailyCodingSolution/tree/master/2262-solving-questions-with-brainpower) |
 | [2577-count-palindromic-subsequences](https://github.com/ankush210103/dailyCodingSolution/tree/master/2577-count-palindromic-subsequences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2586-longest-square-streak-in-an-array) |
 ## Stack
