@@ -14,7 +14,10 @@ class Solution {
         int notTake = solve(coins,index-1,amount,dp);
         int take = Integer.MAX_VALUE;
         if(coins[index]<= amount){
-            take = 1 + solve(coins,index,amount-coins[index],dp);
+            int subTake =solve(coins,index,amount-coins[index],dp);
+            if(subTake != Integer.MAX_VALUE){
+                take = 1 + subTake;
+            }
         }
         return dp[index][amount] =  Math.min(take,notTake);
     }
@@ -23,13 +26,33 @@ class Solution {
 
       
         int[][] dp = new int[coins.length][amount+1];
-        for(int i=0;i<coins.length;i++){
-            Arrays.fill(dp[i],-1);
+  
+
+        for(int i=0;i<coins.length;i++) dp[i][0] = 0;
+        
+        for(int i=0;i<=amount;i++){
+            if(i%coins[0] == 0){
+                dp[0][i] = i/coins[0];
+            }else{
+                dp[0][i] =  Integer.MAX_VALUE;
+            }
         }
 
-        int res = solve(coins,coins.length-1,amount,dp);
+        for(int i=1;i<coins.length;i++){
+            for(int j=0;j<=amount;j++){
+                int notTake = dp[i-1][j];
+                int take = Integer.MAX_VALUE;
+                if(coins[i] <= j){
+                    int subTake = dp[i][j-coins[i]];
+                    if(subTake != Integer.MAX_VALUE){
+                        take = 1+subTake;
+                    }
+                }
+                dp[i][j] = Math.min(take,notTake);
+            }
+        }
 
-        return res == Integer.MAX_VALUE ? -1 : res;        
+        return dp[coins.length-1][amount] == Integer.MAX_VALUE ? -1 : dp[coins.length-1][amount];
 
     }
 }
