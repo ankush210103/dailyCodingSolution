@@ -639,6 +639,7 @@ This repository is for the solution of my Daily Coding Question
 | [1923-sentence-similarity-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1923-sentence-similarity-iii) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ankush210103/dailyCodingSolution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/ankush210103/dailyCodingSolution/tree/master/1972-rotating-the-box) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ankush210103/dailyCodingSolution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankush210103/dailyCodingSolution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/ankush210103/dailyCodingSolution/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/2047-find-a-peak-element-ii) |
@@ -968,6 +969,7 @@ This repository is for the solution of my Daily Coding Question
 | [1307-ugly-number-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1307-ugly-number-iii) |
 | [1642-water-bottles](https://github.com/ankush210103/dailyCodingSolution/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ankush210103/dailyCodingSolution/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ankush210103/dailyCodingSolution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/ankush210103/dailyCodingSolution/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/ankush210103/dailyCodingSolution/tree/master/2645-pass-the-pillow) |
@@ -986,6 +988,7 @@ This repository is for the solution of my Daily Coding Question
 | [1435-xor-queries-of-a-subarray](https://github.com/ankush210103/dailyCodingSolution/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/ankush210103/dailyCodingSolution/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankush210103/dailyCodingSolution/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ankush210103/dailyCodingSolution/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ankush210103/dailyCodingSolution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ankush210103/dailyCodingSolution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1012,6 +1015,7 @@ This repository is for the solution of my Daily Coding Question
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1022-unique-paths-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1022-unique-paths-iii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ankush210103/dailyCodingSolution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ankush210103/dailyCodingSolution/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
 | ------- |
@@ -1229,8 +1233,13 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0062-unique-paths](https://github.com/ankush210103/dailyCodingSolution/tree/master/0062-unique-paths) |
 | [1307-ugly-number-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1307-ugly-number-iii) |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ankush210103/dailyCodingSolution/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Bitmask
 |  |
 | ------- |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [1993-sum-of-all-subset-xor-totals](https://github.com/ankush210103/dailyCodingSolution/tree/master/1993-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
