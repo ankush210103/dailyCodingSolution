@@ -831,6 +831,7 @@ This repository is for the solution of my Daily Coding Question
 | [0494-target-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0518-coin-change-ii) |
+| [0583-delete-operation-for-two-strings](https://github.com/ankush210103/dailyCodingSolution/tree/master/0583-delete-operation-for-two-strings) |
 | [0600-non-negative-integers-without-consecutive-ones](https://github.com/ankush210103/dailyCodingSolution/tree/master/0600-non-negative-integers-without-consecutive-ones) |
 | [0650-2-keys-keyboard](https://github.com/ankush210103/dailyCodingSolution/tree/master/0650-2-keys-keyboard) |
 | [0664-strange-printer](https://github.com/ankush210103/dailyCodingSolution/tree/master/0664-strange-printer) |
@@ -908,6 +909,7 @@ This repository is for the solution of my Daily Coding Question
 | [0516-longest-palindromic-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/ankush210103/dailyCodingSolution/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/ankush210103/dailyCodingSolution/tree/master/0567-permutation-in-string) |
+| [0583-delete-operation-for-two-strings](https://github.com/ankush210103/dailyCodingSolution/tree/master/0583-delete-operation-for-two-strings) |
 | [0592-fraction-addition-and-subtraction](https://github.com/ankush210103/dailyCodingSolution/tree/master/0592-fraction-addition-and-subtraction) |
 | [0664-strange-printer](https://github.com/ankush210103/dailyCodingSolution/tree/master/0664-strange-printer) |
 | [0726-number-of-atoms](https://github.com/ankush210103/dailyCodingSolution/tree/master/0726-number-of-atoms) |
