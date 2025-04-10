@@ -822,6 +822,7 @@ This repository is for the solution of my Daily Coding Question
 | [0042-trapping-rain-water](https://github.com/ankush210103/dailyCodingSolution/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/ankush210103/dailyCodingSolution/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0063-unique-paths-ii) |
+| [0072-edit-distance](https://github.com/ankush210103/dailyCodingSolution/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/ankush210103/dailyCodingSolution/tree/master/0097-interleaving-string) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/ankush210103/dailyCodingSolution/tree/master/0131-palindrome-partitioning) |
@@ -900,6 +901,7 @@ This repository is for the solution of my Daily Coding Question
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/ankush210103/dailyCodingSolution/tree/master/0072-edit-distance) |
 | [0093-restore-ip-addresses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/ankush210103/dailyCodingSolution/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/ankush210103/dailyCodingSolution/tree/master/0125-valid-palindrome) |
