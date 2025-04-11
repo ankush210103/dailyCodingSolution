@@ -554,6 +554,7 @@ This repository is for the solution of my Daily Coding Question
 | [0074-search-a-2d-matrix](https://github.com/ankush210103/dailyCodingSolution/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/ankush210103/dailyCodingSolution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0078-subsets) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ankush210103/dailyCodingSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ankush210103/dailyCodingSolution/tree/master/0130-surrounded-regions) |
@@ -827,6 +828,7 @@ This repository is for the solution of my Daily Coding Question
 | [0063-unique-paths-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0063-unique-paths-ii) |
 | [0072-edit-distance](https://github.com/ankush210103/dailyCodingSolution/tree/master/0072-edit-distance) |
 | [0097-interleaving-string](https://github.com/ankush210103/dailyCodingSolution/tree/master/0097-interleaving-string) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/ankush210103/dailyCodingSolution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/ankush210103/dailyCodingSolution/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0132-palindrome-partitioning-ii) |
