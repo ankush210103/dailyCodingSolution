@@ -181,6 +181,7 @@ This repository is for the solution of my Daily Coding Question
 | [0410-split-array-largest-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0410-split-array-largest-sum) |
 | [0624-maximum-distance-in-arrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0624-maximum-distance-in-arrays) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankush210103/dailyCodingSolution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankush210103/dailyCodingSolution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/ankush210103/dailyCodingSolution/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankush210103/dailyCodingSolution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1304-longest-happy-string](https://github.com/ankush210103/dailyCodingSolution/tree/master/1304-longest-happy-string) |
@@ -583,6 +584,7 @@ This repository is for the solution of my Daily Coding Question
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankush210103/dailyCodingSolution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/ankush210103/dailyCodingSolution/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0729-my-calendar-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0731-my-calendar-ii) |
@@ -853,6 +855,7 @@ This repository is for the solution of my Daily Coding Question
 | [0673-number-of-longest-increasing-subsequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0673-number-of-longest-increasing-subsequence) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankush210103/dailyCodingSolution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0747-min-cost-climbing-stairs](https://github.com/ankush210103/dailyCodingSolution/tree/master/0747-min-cost-climbing-stairs) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankush210103/dailyCodingSolution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ankush210103/dailyCodingSolution/tree/master/0938-numbers-at-most-n-given-digit-set) |
