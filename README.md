@@ -352,6 +352,7 @@ This repository is for the solution of my Daily Coding Question
 | [0268-missing-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0432-all-oone-data-structure](https://github.com/ankush210103/dailyCodingSolution/tree/master/0432-all-oone-data-structure) |
+| [0496-next-greater-element-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/ankush210103/dailyCodingSolution/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankush210103/dailyCodingSolution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0726-number-of-atoms](https://github.com/ankush210103/dailyCodingSolution/tree/master/0726-number-of-atoms) |
@@ -576,6 +577,7 @@ This repository is for the solution of my Daily Coding Question
 | [0407-trapping-rain-water-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0407-trapping-rain-water-ii) |
 | [0410-split-array-largest-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0410-split-array-largest-sum) |
 | [0494-target-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0494-target-sum) |
+| [0496-next-greater-element-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0518-coin-change-ii) |
 | [0539-minimum-time-difference](https://github.com/ankush210103/dailyCodingSolution/tree/master/0539-minimum-time-difference) |
@@ -886,6 +888,7 @@ This repository is for the solution of my Daily Coding Question
 | [0145-binary-tree-postorder-traversal](https://github.com/ankush210103/dailyCodingSolution/tree/master/0145-binary-tree-postorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/ankush210103/dailyCodingSolution/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0503-next-greater-element-ii) |
 | [0726-number-of-atoms](https://github.com/ankush210103/dailyCodingSolution/tree/master/0726-number-of-atoms) |
 | [0735-asteroid-collision](https://github.com/ankush210103/dailyCodingSolution/tree/master/0735-asteroid-collision) |
@@ -905,6 +908,7 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0042-trapping-rain-water](https://github.com/ankush210103/dailyCodingSolution/tree/master/0042-trapping-rain-water) |
 | [0402-remove-k-digits](https://github.com/ankush210103/dailyCodingSolution/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0503-next-greater-element-ii) |
 | [0943-sum-of-subarray-minimums](https://github.com/ankush210103/dailyCodingSolution/tree/master/0943-sum-of-subarray-minimums) |
 | [1002-maximum-width-ramp](https://github.com/ankush210103/dailyCodingSolution/tree/master/1002-maximum-width-ramp) |
