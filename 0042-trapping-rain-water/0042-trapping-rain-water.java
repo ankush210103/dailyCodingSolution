@@ -1,23 +1,22 @@
 class Solution {
     public int trap(int[] height) {
-        int n = height.length;
-        int[] arr = new int[n];
-        int[] brr = new int[n];
-        arr[0] = height[0];
-        for(int i=1;i<n;i++){
-            arr[i] = Math.max(height[i],arr[i-1]);
+        int left =0;
+        int right = height.length-1;
+        int lMax =0;
+        int rMax =0;
+        int ans =0;
+        while(left<=right){
+            if(height[left] <= height[right]){
+                lMax = Math.max(height[left],lMax);
+                ans+=(lMax -height[left] );
+                left++;
+            }else{
+                rMax = Math.max(height[right],rMax);
+                ans += rMax-height[right];
+                right--;
+            }
         }
-       brr[n-1] = height[n-1];
-       for(int i=n-2;i>=0;i--){
-        brr[i] = Math.max(height[i],brr[i+1]);
-       }
 
-       int totalWater =0;
-       for(int i=0;i<n;i++){
-        int min = Math.min(arr[i],brr[i]);
-        totalWater += (min-height[i]);
-       }
-        return totalWater;
-        
+        return ans;
     }
 }
