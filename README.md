@@ -679,6 +679,7 @@ This repository is for the solution of my Daily Coding Question
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ankush210103/dailyCodingSolution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2502-sort-the-people](https://github.com/ankush210103/dailyCodingSolution/tree/master/2502-sort-the-people) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ankush210103/dailyCodingSolution/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ankush210103/dailyCodingSolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/ankush210103/dailyCodingSolution/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankush210103/dailyCodingSolution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/ankush210103/dailyCodingSolution/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -785,6 +786,7 @@ This repository is for the solution of my Daily Coding Question
 | [0859-design-circular-deque](https://github.com/ankush210103/dailyCodingSolution/tree/master/0859-design-circular-deque) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ankush210103/dailyCodingSolution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ankush210103/dailyCodingSolution/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ankush210103/dailyCodingSolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Sliding Window
 |  |
 | ------- |
@@ -794,6 +796,7 @@ This repository is for the solution of my Daily Coding Question
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ankush210103/dailyCodingSolution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1755-defuse-the-bomb](https://github.com/ankush210103/dailyCodingSolution/tree/master/1755-defuse-the-bomb) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ankush210103/dailyCodingSolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ankush210103/dailyCodingSolution/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ankush210103/dailyCodingSolution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ankush210103/dailyCodingSolution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -804,6 +807,7 @@ This repository is for the solution of my Daily Coding Question
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/ankush210103/dailyCodingSolution/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [2527-count-subarrays-with-fixed-bounds](https://github.com/ankush210103/dailyCodingSolution/tree/master/2527-count-subarrays-with-fixed-bounds) |
 ## Simulation
 |  |
 | ------- |
