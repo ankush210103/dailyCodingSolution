@@ -184,6 +184,7 @@ This repository is for the solution of my Daily Coding Question
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ankush210103/dailyCodingSolution/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0890-lemonade-change](https://github.com/ankush210103/dailyCodingSolution/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/ankush210103/dailyCodingSolution/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/ankush210103/dailyCodingSolution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1304-longest-happy-string](https://github.com/ankush210103/dailyCodingSolution/tree/master/1304-longest-happy-string) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1711-find-valid-matrix-given-row-and-column-sums](https://github.com/ankush210103/dailyCodingSolution/tree/master/1711-find-valid-matrix-given-row-and-column-sums) |
@@ -610,6 +611,7 @@ This repository is for the solution of my Daily Coding Question
 | [1022-unique-paths-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1022-unique-paths-iii) |
 | [1025-minimum-cost-for-tickets](https://github.com/ankush210103/dailyCodingSolution/tree/master/1025-minimum-cost-for-tickets) |
 | [1036-rotting-oranges](https://github.com/ankush210103/dailyCodingSolution/tree/master/1036-rotting-oranges) |
+| [1049-minimum-domino-rotations-for-equal-row](https://github.com/ankush210103/dailyCodingSolution/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/ankush210103/dailyCodingSolution/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1073-number-of-enclaves) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/ankush210103/dailyCodingSolution/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
