@@ -343,6 +343,7 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ankush210103/dailyCodingSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/ankush210103/dailyCodingSolution/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/ankush210103/dailyCodingSolution/tree/master/0037-sudoku-solver) |
@@ -792,6 +793,7 @@ This repository is for the solution of my Daily Coding Question
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ankush210103/dailyCodingSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/ankush210103/dailyCodingSolution/tree/master/0567-permutation-in-string) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/ankush210103/dailyCodingSolution/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
@@ -925,6 +927,7 @@ This repository is for the solution of my Daily Coding Question
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ankush210103/dailyCodingSolution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ankush210103/dailyCodingSolution/tree/master/0022-generate-parentheses) |
