@@ -226,6 +226,7 @@ This repository is for the solution of my Daily Coding Question
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/ankush210103/dailyCodingSolution/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Sorting
 |  |
 | ------- |
@@ -290,6 +291,7 @@ This repository is for the solution of my Daily Coding Question
 | [2803-modify-graph-edge-weights](https://github.com/ankush210103/dailyCodingSolution/tree/master/2803-modify-graph-edge-weights) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankush210103/dailyCodingSolution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Linked List
 |  |
 | ------- |
@@ -707,6 +709,7 @@ This repository is for the solution of my Daily Coding Question
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -782,6 +785,7 @@ This repository is for the solution of my Daily Coding Question
 | [2472-build-a-matrix-with-conditions](https://github.com/ankush210103/dailyCodingSolution/tree/master/2472-build-a-matrix-with-conditions) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Queue
 |  |
 | ------- |
@@ -1164,6 +1168,7 @@ This repository is for the solution of my Daily Coding Question
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/ankush210103/dailyCodingSolution/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2803-modify-graph-edge-weights](https://github.com/ankush210103/dailyCodingSolution/tree/master/2803-modify-graph-edge-weights) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3235-minimum-cost-to-convert-string-i) |
+| [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 ## Binary Indexed Tree
 |  |
 | ------- |
