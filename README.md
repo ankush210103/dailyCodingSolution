@@ -394,6 +394,7 @@ This repository is for the solution of my Daily Coding Question
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankush210103/dailyCodingSolution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -895,6 +896,7 @@ This repository is for the solution of my Daily Coding Question
 | [2262-solving-questions-with-brainpower](https://github.com/ankush210103/dailyCodingSolution/tree/master/2262-solving-questions-with-brainpower) |
 | [2577-count-palindromic-subsequences](https://github.com/ankush210103/dailyCodingSolution/tree/master/2577-count-palindromic-subsequences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2586-longest-square-streak-in-an-array) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Stack
 |  |
 | ------- |
@@ -995,6 +997,7 @@ This repository is for the solution of my Daily Coding Question
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankush210103/dailyCodingSolution/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Math
 |  |
 | ------- |
@@ -1024,6 +1027,7 @@ This repository is for the solution of my Daily Coding Question
 | [2645-pass-the-pillow](https://github.com/ankush210103/dailyCodingSolution/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1157,6 +1161,7 @@ This repository is for the solution of my Daily Coding Question
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ankush210103/dailyCodingSolution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankush210103/dailyCodingSolution/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Shortest Path
 |  |
 | ------- |
