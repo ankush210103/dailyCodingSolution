@@ -702,6 +702,7 @@ This repository is for the solution of my Daily Coding Question
 | [2792-neighboring-bitwise-xor](https://github.com/ankush210103/dailyCodingSolution/tree/master/2792-neighboring-bitwise-xor) |
 | [2846-robot-collisions](https://github.com/ankush210103/dailyCodingSolution/tree/master/2846-robot-collisions) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ankush210103/dailyCodingSolution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ankush210103/dailyCodingSolution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankush210103/dailyCodingSolution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3235-minimum-cost-to-convert-string-i) |
@@ -896,6 +897,7 @@ This repository is for the solution of my Daily Coding Question
 | [2262-solving-questions-with-brainpower](https://github.com/ankush210103/dailyCodingSolution/tree/master/2262-solving-questions-with-brainpower) |
 | [2577-count-palindromic-subsequences](https://github.com/ankush210103/dailyCodingSolution/tree/master/2577-count-palindromic-subsequences) |
 | [2586-longest-square-streak-in-an-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2586-longest-square-streak-in-an-array) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Stack
 |  |
@@ -991,6 +993,7 @@ This repository is for the solution of my Daily Coding Question
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/ankush210103/dailyCodingSolution/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2727-number-of-senior-citizens](https://github.com/ankush210103/dailyCodingSolution/tree/master/2727-number-of-senior-citizens) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/ankush210103/dailyCodingSolution/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3142-longest-unequal-adjacent-groups-subsequence-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3142-longest-unequal-adjacent-groups-subsequence-ii) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/ankush210103/dailyCodingSolution/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/ankush210103/dailyCodingSolution/tree/master/3195-separate-black-and-white-balls) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3235-minimum-cost-to-convert-string-i) |
