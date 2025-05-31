@@ -497,6 +497,7 @@ This repository is for the solution of my Daily Coding Question
 | [0801-is-graph-bipartite](https://github.com/ankush210103/dailyCodingSolution/tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/ankush210103/dailyCodingSolution/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/ankush210103/dailyCodingSolution/tree/master/0820-find-eventual-safe-states) |
+| [0945-snakes-and-ladders](https://github.com/ankush210103/dailyCodingSolution/tree/master/0945-snakes-and-ladders) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/ankush210103/dailyCodingSolution/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/ankush210103/dailyCodingSolution/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1073-number-of-enclaves) |
@@ -616,6 +617,7 @@ This repository is for the solution of my Daily Coding Question
 | [0921-spiral-matrix-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0921-spiral-matrix-iii) |
 | [0938-numbers-at-most-n-given-digit-set](https://github.com/ankush210103/dailyCodingSolution/tree/master/0938-numbers-at-most-n-given-digit-set) |
 | [0943-sum-of-subarray-minimums](https://github.com/ankush210103/dailyCodingSolution/tree/master/0943-sum-of-subarray-minimums) |
+| [0945-snakes-and-ladders](https://github.com/ankush210103/dailyCodingSolution/tree/master/0945-snakes-and-ladders) |
 | [0948-sort-an-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/ankush210103/dailyCodingSolution/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/ankush210103/dailyCodingSolution/tree/master/1002-maximum-width-ramp) |
@@ -775,6 +777,7 @@ This repository is for the solution of my Daily Coding Question
 | [0733-flood-fill](https://github.com/ankush210103/dailyCodingSolution/tree/master/0733-flood-fill) |
 | [0787-sliding-puzzle](https://github.com/ankush210103/dailyCodingSolution/tree/master/0787-sliding-puzzle) |
 | [0921-spiral-matrix-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0921-spiral-matrix-iii) |
+| [0945-snakes-and-ladders](https://github.com/ankush210103/dailyCodingSolution/tree/master/0945-snakes-and-ladders) |
 | [1022-unique-paths-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/ankush210103/dailyCodingSolution/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/ankush210103/dailyCodingSolution/tree/master/1073-number-of-enclaves) |
