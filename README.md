@@ -176,6 +176,7 @@ This repository is for the solution of my Daily Coding Question
 | [0011-container-with-most-water](https://github.com/ankush210103/dailyCodingSolution/tree/master/0011-container-with-most-water) |
 | [0044-wildcard-matching](https://github.com/ankush210103/dailyCodingSolution/tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0135-candy](https://github.com/ankush210103/dailyCodingSolution/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0179-largest-number) |
 | [0402-remove-k-digits](https://github.com/ankush210103/dailyCodingSolution/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/0410-split-array-largest-sum) |
@@ -575,6 +576,7 @@ This repository is for the solution of my Daily Coding Question
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/ankush210103/dailyCodingSolution/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ankush210103/dailyCodingSolution/tree/master/0130-surrounded-regions) |
+| [0135-candy](https://github.com/ankush210103/dailyCodingSolution/tree/master/0135-candy) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0179-largest-number](https://github.com/ankush210103/dailyCodingSolution/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ankush210103/dailyCodingSolution/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
