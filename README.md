@@ -727,6 +727,7 @@ This repository is for the solution of my Daily Coding Question
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
+| [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Binary Search
 |  |
 | ------- |
