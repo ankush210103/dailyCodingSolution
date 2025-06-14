@@ -198,6 +198,7 @@ This repository is for the solution of my Daily Coding Question
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/ankush210103/dailyCodingSolution/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/ankush210103/dailyCodingSolution/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/ankush210103/dailyCodingSolution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/ankush210103/dailyCodingSolution/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ankush210103/dailyCodingSolution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/ankush210103/dailyCodingSolution/tree/master/3195-separate-black-and-white-balls) |
@@ -1051,6 +1052,7 @@ This repository is for the solution of my Daily Coding Question
 | [2106-find-greatest-common-divisor-of-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2155-find-missing-observations](https://github.com/ankush210103/dailyCodingSolution/tree/master/2155-find-missing-observations) |
 | [2645-pass-the-pillow](https://github.com/ankush210103/dailyCodingSolution/tree/master/2645-pass-the-pillow) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/ankush210103/dailyCodingSolution/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
