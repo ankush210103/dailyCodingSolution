@@ -1058,6 +1058,7 @@ This repository is for the solution of my Daily Coding Question
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/ankush210103/dailyCodingSolution/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ankush210103/dailyCodingSolution/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -1321,6 +1322,7 @@ This repository is for the solution of my Daily Coding Question
 | [0062-unique-paths](https://github.com/ankush210103/dailyCodingSolution/tree/master/0062-unique-paths) |
 | [1307-ugly-number-iii](https://github.com/ankush210103/dailyCodingSolution/tree/master/1307-ugly-number-iii) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankush210103/dailyCodingSolution/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/ankush210103/dailyCodingSolution/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Bitmask
 |  |
 | ------- |
