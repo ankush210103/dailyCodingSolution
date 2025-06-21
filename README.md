@@ -204,6 +204,7 @@ This repository is for the solution of my Daily Coding Question
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/ankush210103/dailyCodingSolution/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3195-separate-black-and-white-balls](https://github.com/ankush210103/dailyCodingSolution/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ankush210103/dailyCodingSolution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Graph
 |  |
 | ------- |
@@ -269,6 +270,7 @@ This repository is for the solution of my Daily Coding Question
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/ankush210103/dailyCodingSolution/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3291-find-if-array-can-be-sorted](https://github.com/ankush210103/dailyCodingSolution/tree/master/3291-find-if-array-can-be-sorted) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ankush210103/dailyCodingSolution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -401,6 +403,7 @@ This repository is for the solution of my Daily Coding Question
 | [2677-cousins-in-binary-tree-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/2677-cousins-in-binary-tree-ii) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ankush210103/dailyCodingSolution/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ankush210103/dailyCodingSolution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankush210103/dailyCodingSolution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
@@ -1024,6 +1027,7 @@ This repository is for the solution of my Daily Coding Question
 | [3235-minimum-cost-to-convert-string-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ankush210103/dailyCodingSolution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankush210103/dailyCodingSolution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Math
@@ -1193,6 +1197,7 @@ This repository is for the solution of my Daily Coding Question
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/ankush210103/dailyCodingSolution/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/ankush210103/dailyCodingSolution/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
+| [3360-minimum-deletions-to-make-string-k-special](https://github.com/ankush210103/dailyCodingSolution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankush210103/dailyCodingSolution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Shortest Path
