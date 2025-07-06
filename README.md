@@ -387,6 +387,7 @@ This repository is for the solution of my Daily Coding Question
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/ankush210103/dailyCodingSolution/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/ankush210103/dailyCodingSolution/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/ankush210103/dailyCodingSolution/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2054-the-number-of-the-smallest-unoccupied-chair](https://github.com/ankush210103/dailyCodingSolution/tree/master/2054-the-number-of-the-smallest-unoccupied-chair) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/ankush210103/dailyCodingSolution/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -678,6 +679,7 @@ This repository is for the solution of my Daily Coding Question
 | [1951-find-the-winner-of-the-circular-game](https://github.com/ankush210103/dailyCodingSolution/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1972-rotating-the-box](https://github.com/ankush210103/dailyCodingSolution/tree/master/1972-rotating-the-box) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankush210103/dailyCodingSolution/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/ankush210103/dailyCodingSolution/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2035-count-sub-islands](https://github.com/ankush210103/dailyCodingSolution/tree/master/2035-count-sub-islands) |
 | [2047-find-a-peak-element-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/2047-find-a-peak-element-ii) |
@@ -1233,6 +1235,7 @@ This repository is for the solution of my Daily Coding Question
 | [0789-kth-largest-element-in-a-stream](https://github.com/ankush210103/dailyCodingSolution/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0859-design-circular-deque](https://github.com/ankush210103/dailyCodingSolution/tree/master/0859-design-circular-deque) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/ankush210103/dailyCodingSolution/tree/master/1497-design-a-stack-with-increment-operation) |
+| [1995-finding-pairs-with-a-certain-sum](https://github.com/ankush210103/dailyCodingSolution/tree/master/1995-finding-pairs-with-a-certain-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
