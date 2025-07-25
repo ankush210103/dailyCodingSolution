@@ -205,6 +205,7 @@ This repository is for the solution of my Daily Coding Question
 | [3195-separate-black-and-white-balls](https://github.com/ankush210103/dailyCodingSolution/tree/master/3195-separate-black-and-white-balls) |
 | [3276-minimum-number-of-pushes-to-type-word-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3276-minimum-number-of-pushes-to-type-word-ii) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/ankush210103/dailyCodingSolution/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ankush210103/dailyCodingSolution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Graph
 |  |
 | ------- |
@@ -408,6 +409,7 @@ This repository is for the solution of my Daily Coding Question
 | [3455-minimum-length-of-string-after-operations](https://github.com/ankush210103/dailyCodingSolution/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ankush210103/dailyCodingSolution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -737,6 +739,7 @@ This repository is for the solution of my Daily Coding Question
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ankush210103/dailyCodingSolution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Binary Search
 |  |
 | ------- |
