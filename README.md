@@ -740,6 +740,7 @@ This repository is for the solution of my Daily Coding Question
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/ankush210103/dailyCodingSolution/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/ankush210103/dailyCodingSolution/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ankush210103/dailyCodingSolution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Binary Search
 |  |
 | ------- |
@@ -1267,6 +1268,7 @@ This repository is for the solution of my Daily Coding Question
 | [2145-grid-game](https://github.com/ankush210103/dailyCodingSolution/tree/master/2145-grid-game) |
 | [2465-shifting-letters-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/2465-shifting-letters-ii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/ankush210103/dailyCodingSolution/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ankush210103/dailyCodingSolution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Game Theory
 |  |
 | ------- |
@@ -1318,6 +1320,7 @@ This repository is for the solution of my Daily Coding Question
 | [0729-my-calendar-i](https://github.com/ankush210103/dailyCodingSolution/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ankush210103/dailyCodingSolution/tree/master/0731-my-calendar-ii) |
 | [3181-find-building-where-alice-and-bob-can-meet](https://github.com/ankush210103/dailyCodingSolution/tree/master/3181-find-building-where-alice-and-bob-can-meet) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ankush210103/dailyCodingSolution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Ordered Set
 |  |
 | ------- |
@@ -1342,4 +1345,5 @@ This repository is for the solution of my Daily Coding Question
 |  |
 | ------- |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/ankush210103/dailyCodingSolution/tree/master/1993-sum-of-all-subset-xor-totals) |
+| [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/ankush210103/dailyCodingSolution/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 <!---LeetCode Topics End-->
